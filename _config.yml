@@ -21,11 +21,11 @@
 title: B.Z's log
 email: bobtsang1989@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Industrial engineering students -> Data professional -> Unknown
+  Industrial engineering students -> Data professional
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bob_zeng
-github_username:  bobtsang1989
+github_username:  bobtsang
 
 # Build settings
 theme: minima
