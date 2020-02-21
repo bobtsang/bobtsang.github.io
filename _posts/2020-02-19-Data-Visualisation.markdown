@@ -5,3 +5,5 @@ date:   2020-02-19 22:00:00 +0800
 ---
 - Why visualisation
     Visualizations enables people to explore, analyze and understand information that is hidden in the data.
+
+Note [here](https://www.evernote.com/l/Aaq17Hc8JT1PH44bdQZeB7-WsE0hfLeuFAY)
