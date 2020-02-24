@@ -4,9 +4,12 @@ title:  "Visualisation"
 date:   2020-02-19 22:00:00 +0800
 ---
 - Why visualisation
-    Visualizations enables people to explore, analyze and understand information that is hidden in the data.
+
+Visualizations enables people to explore, analyze and understand information that is hidden in the data.
+
 - Why not visualisation
-    Business needs are so dynamic.Certain types visualisations are not scalable.
+
+Business needs are so dynamic.Certain types visualisations are not scalable.
 
 Note [here](https://www.evernote.com/l/Aaq17Hc8JT1PH44bdQZeB7-WsE0hfLeuFAY)
 
