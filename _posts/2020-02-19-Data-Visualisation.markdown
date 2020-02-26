@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Visualisation"
+title:  "Data Visualisation"
 date:   2020-02-19 22:00:00 +0800
 ---
 - Why visualisation
@@ -9,7 +9,9 @@ Visualizations enables people to explore, analyze and understand information tha
 
 - Why not visualisation
 
-Business needs are so dynamic.Certain types visualisations are not scalable.
+Business needs are so dynamic.Certain types visualisations are not scalable. As a principle, we need to keep visualisation as simple as possible. That will limit the complexity and hence limit 'information value'. 
+
+But as you may know, less is more.
 
 Note [here](https://www.evernote.com/l/Aaq17Hc8JT1PH44bdQZeB7-WsE0hfLeuFAY)
 
