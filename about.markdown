@@ -9,21 +9,6 @@ The purpose of this space
 1. for myself to write learning notes down
 2. share with other people
 
-Notes flow:
+Tools: Notion, Baidu Naotu
 
-- Explorer: Notion
-     
-     - Drop down task list
-     - Calendar planning
-     - Database
-
-
-- Exploiter: Evernote
-
-    - Deep note
-    - Web clipper read 
-
-
-- Structured Graph: Baidu Naotu
-
-    - Tree structure summary 
+Previously I used Evernote, but I found that it's more like a library to me (too much information with less structure). 
