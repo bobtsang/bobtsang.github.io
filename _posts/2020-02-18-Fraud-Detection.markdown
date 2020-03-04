@@ -47,6 +47,8 @@ Main problems addressed for this methodology:
 - how to find the community of a given node
 - how to quantify the level of the given node to be a bridge node
 
+[Community detection note](https://www.notion.so/bobzeng/Community-Detection-a1e449903e7f41c1b32bc9bb843b6ab9)
+
 ## Reference
 
 [1] Graph based anomaly detection and description:a survey, Leman etc., 2014
