@@ -26,7 +26,7 @@ But as you may know, less is more.
 
 1. Understand the context
 
-Note [here](https://www.evernote.com/l/Aaq17Hc8JT1PH44bdQZeB7-WsE0hfLeuFAY)
+Note [here](https://www.notion.so/bobzeng/Data-Visualization-Reading-Materials-e37224730b134e2882972b18fe614ebc)
 
 Main comparison
 Stephen Few (laymen) vs. Edward Tufte (more sophisticated)
