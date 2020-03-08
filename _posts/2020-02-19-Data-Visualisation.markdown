@@ -7,8 +7,7 @@ date:   2020-02-19 22:00:00 +0800
 
 I think data visualisation is the most underestimiated skills in data education. Engineers and analysts would not pay too much attenntion to it because of various reasons.
 
-```
-Anyone can turn data into some graphs. It's remarkable and ..scary.
+```Anyone can turn data into some graphs. It's remarkable and ..scary.
 ```
 
 - Why visualisation
@@ -17,9 +16,9 @@ Visualizations enables people to explore, analyze and understand information tha
 
 - Why not visualisation
 
-Business needs are so dynamic.Certain types visualisations are not scalable. As a principle, we need to keep visualisation as simple as possible. That will limit the complexity and hence limit 'information value'.
+Business needs are so dynamic. Certain types visualisations are not scalable. As a principle, we need to keep visualisation as simple as possible. That will limit the complexity and hence limit 'information volume'.
 
-But as you may know, less is more.
+But as you may know, less is more. More information does not translate to more insights or faster decision-making.
 
 ### How to do data visualisation
 
@@ -41,7 +40,7 @@ Stephen Few (laymen) vs. Edward Tufte (more sophisticated)
 3. John W. Tukey: statisitcs
 4. Gene Zelazny: practical guidelines on charts and slideware
 5. Jonathan G.Koomey: high-level process from data to knowledge
-6. Edward Tufte: https://www.goodreads.com/author/show/10775.Edward_R__Tufte
+6. Edward Tufte: <https://www.goodreads.com/author/show/10775.Edward_R__Tufte>
 
 ### Reference
 
