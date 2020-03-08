@@ -31,7 +31,7 @@ Note [here](https://www.notion.so/bobzeng/Data-Visualization-Reading-Materials-e
 - Don't do donut chart.
 - Don't use 3D.
 
-### Visualisation theory Giants
+### Visualisation theory giants
 
 Main comparison
 Stephen Few (laymen) vs. Edward Tufte (more sophisticated)
