@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Hive"
+date:   2020-03-10 22:59:07 +0800
+---
+Apache Hive development notes
+
