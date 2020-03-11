@@ -5,3 +5,4 @@ date:   2020-03-10 22:59:07 +0800
 ---
 Apache Hive development notes
 
+[Learning notes](https://www.notion.so/bobzeng/Hive-32d05a84ec344fdfac1ffd99cc13bb79)
