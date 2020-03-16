@@ -29,6 +29,7 @@ Note [here](https://www.notion.so/bobzeng/Data-Visualization-Reading-Materials-e
 - Don't do pie chart.
 - Don't do donut chart.
 - Don't use 3D.
+- Avoid using dual axis, unless with proper mapping of color or shape.
 
 ### Visualisation theory giants
 
