@@ -45,10 +45,10 @@ Stephen Few (laymen) vs. Edward Tufte (more sophisticated)
 
 ### Reference
 
-[1] Visual and Statistical Thinking: Displays of Evidence for Making Decisions, Edward R. Tufte. 2007
-[2] Visualization Design and Analysis: Abstractions, Principles and Methods, Tamara Munzner. 2014
-[3] Software Design Patterns for Information Visualisation, Jeff Here and Mannish Agrawala, 2006
-[4] Data Points, Nathan Yau
-[5] Resonate, Nancy Duarte, 2010
-[6] Show Me the Numbers, Stephen Few
-[7] The Visual Display of Quantitative Information, Edward Tufte
+1. Visual and Statistical Thinking: Displays of Evidence for Making Decisions, Edward R. Tufte. 2007
+2. Visualization Design and Analysis: Abstractions, Principles and Methods, Tamara Munzner. 2014
+3. Software Design Patterns for Information Visualisation, Jeff Here and Mannish Agrawala, 2006
+4. Data Points, Nathan Yau
+5. Resonate, Nancy Duarte, 2010
+6. Show Me the Numbers, Stephen Few
+7. The Visual Display of Quantitative Information, Edward Tufte
