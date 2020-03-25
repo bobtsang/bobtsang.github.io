@@ -18,9 +18,9 @@ Mainly two schools of thoughts
 - Granger causality
 - Instantaneous causality
 - Multi-step causality
-    
-    - bivariate system: 1-step ahead forecasts 
-    - multi-variate system: X <sub> i</sub> is h-step causal for another variable Y<sub>i</sub>
+
+  - bivariate system: 1-step ahead forecasts 
+  - multi-variate system: X <sub> i</sub> is h-step causal for another variable Y<sub>i</sub>
 
 ### Reference
 
