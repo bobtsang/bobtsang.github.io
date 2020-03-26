@@ -22,6 +22,8 @@ Mainly two schools of thoughts
   - bivariate system: 1-step ahead forecasts 
   - multi-variate system: X <sub> i</sub> is h-step causal for another variable Y<sub>i</sub>
 
+- Sims causality
+
 ### Reference
 
 1. [Learning notes](https://www.notion.so/bobzeng/Time-Series-de89af1b5fa04d8690ab90b39c62548c)
