@@ -24,6 +24,17 @@ Mainly two schools of thoughts
 
 - Sims causality
 
+  - Granger causality will lead to Sims causality but the other way around may not be true
+
+- Structural causality
+ 
+  - recursive dynamic structure in data generation process
+  - predecessors <b>structurally</b> determine successors
+
+- Intervention causality
+
+  - related to [impulse response](https://www.wikiwand.com/en/Impulse_response) in econmetrics 
+
 ### Reference
 
 1. [Learning notes](https://www.notion.so/bobzeng/Time-Series-de89af1b5fa04d8690ab90b39c62548c)
