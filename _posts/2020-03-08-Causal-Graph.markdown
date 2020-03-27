@@ -4,6 +4,10 @@ title:  "Causal Graph"
 date:   2020-03-08 19:46:07 +0800
 ---
 
-Judea
+What is [causal graph](https://www.wikiwand.com/en/Causal_graph)?
 
-> a causal diagram is a Bayesian network in whic every arrow signifies a direct causal relation, or at least the possibility of one, in the direction of that arrow.
+> a causal diagram is a Bayesian network in whic every arrow signifies a direct causal relation, or at least the possibility of one, in the direction of that arrow. --- Judea
+
+#### Reference
+
+[1] [User Causal Graph!](https://towardsdatascience.com/use-causal-graphs-4e3af630cf64)
