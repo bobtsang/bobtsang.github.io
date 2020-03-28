@@ -35,6 +35,17 @@ Mainly two schools of thoughts
 
   - related to [impulse response](https://www.wikiwand.com/en/Impulse_response) in econmetrics 
 
+#### Causality Inference in time series data
+
+- Non-directional lagged interactions
+  - Lagged version of X causes Y
+    - high degree of correspondence
+    - correspondence measure
+      - pearson correlation
+        - it's equivalent to looking at the [cross-correlation](https://www.wikiwand.com/en/Cross-correlation) function. this can lead to significant problems when interpretating.
+      - mutual information
+
+
 ### Reference
 
 1. [Learning notes](https://www.notion.so/bobzeng/Time-Series-de89af1b5fa04d8690ab90b39c62548c)
