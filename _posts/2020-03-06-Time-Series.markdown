@@ -45,8 +45,25 @@ Mainly two schools of thoughts
         - it's equivalent to looking at the [cross-correlation](https://www.wikiwand.com/en/Cross-correlation) function. this can lead to significant problems when interpretating.
       - mutual information
 
+- Parametric VAR-based tests for Granger causality
+  - Stationarity,differencing
+  - restricted model: assuming Y only depends linearly only on its past values
+  - unrestricted model: Y depends past values of both X and Y. [Granger Test](https://www.statisticshowto.datasciencecentral.com/granger-causality/), another example of [bivariate Granger Causality test](https://support.sas.com/rnd/app/ets/examples/granger/index.htm)
+  - [statsmodels function](https://www.statsmodels.org/stable/generated/statsmodels.tsa.stattools.grangercausalitytests.html#statsmodels.tsa.stattools.grangercausalitytests)
 
-### Reference
+#### Causality Inference In Information Theory
+
+- Coarse-grained tras-information rate (CTIR)
+- Transfer entropy measures 
+- Mutual Information from Mixed Embedding (MIME)
+
+#### Causality Inference In Graphical Modelling
+
+- causal Markov condition: SGS, PC and FCI
+- PCMCI: [repo](https://github.com/jakobrunge/tigramite)
+- Copula-Granger
+
+#### Reference
 
 1. [Learning notes](https://www.notion.so/bobzeng/Time-Series-de89af1b5fa04d8690ab90b39c62548c)
 2. [Causality: Statistical Perspectives and Applications](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119945710), Carlo Berzuini etc., 2012
