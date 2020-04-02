@@ -20,8 +20,13 @@ But are we just too naive to think that everything can be broken down into simil
         - difficult
   
   - Idea: potential ways to reach the goal
+        > until they're being actively developed, ideas reside in an "Idea Bank"
+        - scoring models
+          - RICE: Reach, Impact, Confidence, Effort
   
   - Step-Projects
+    - experiments to production
+    > capped timespan 10 weeks; each step-project gets evaluated multiple times
   - Tasks 
 
 
