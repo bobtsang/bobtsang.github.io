@@ -20,7 +20,7 @@ Mainly two schools of thoughts
 - Multi-step causality
 
   - bivariate system: 1-step ahead forecasts 
-  - multi-variate system: X <sub> i</sub> is h-step causal for another variable Y<sub>i</sub>
+  - multi-variate system: X <sub>i</sub> is h-step causal for another variable Y<sub>i</sub>
 
 - Sims causality
 
@@ -60,8 +60,20 @@ Mainly two schools of thoughts
 #### Causality Inference In Graphical Modelling
 
 - causal Markov condition: SGS, PC and FCI
+  main structure for these algorithm
+  1. initialization
+  2. skeleton construction: testing for conditional independence 
+  3. edge elimination
 - PCMCI: [repo](https://github.com/jakobrunge/tigramite)
 - Copula-Granger
+
+#### When to Use What
+
+1. When to use Granger
+
+   - Separability
+
+   > information about causing effects is not contained in the time series for the caused effects
 
 #### Reference
 
