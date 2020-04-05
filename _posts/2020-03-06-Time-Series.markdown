@@ -73,7 +73,12 @@ Mainly two schools of thoughts
 
    - Separability
 
+   Data needs to be separated into several mutually-exclusive time series. If this condition could not be met, then modern approaches like PCMCI would be more appropriate.
+   
    > information about causing effects is not contained in the time series for the caused effects
+
+2. Parametric vs Non-Parametric
+
 
 #### Reference
 
