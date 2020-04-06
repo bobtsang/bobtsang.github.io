@@ -10,11 +10,11 @@ I think data visualisation is the most underestimiated skills in data education.
 ```Anyone can turn data into some graphs. It's remarkable and ..scary.
 ```
 
-- Why visualisation
+### Why visualisation
 
 Visualizations enables people to explore, analyze and understand information that is hidden in the data.
 
-- Why not visualisation
+### Why not visualisation
 
 Business needs are so dynamic. Certain types visualisations are not scalable. As a principle, we need to keep visualisation as simple as possible. That will limit the complexity and hence limit 'information volume'.
 
