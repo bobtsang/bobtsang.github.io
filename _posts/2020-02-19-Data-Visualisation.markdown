@@ -24,7 +24,12 @@ But as you may know, less is more. More information does not translate to more i
 
 Note [here](https://www.notion.so/bobzeng/Data-Visualization-Reading-Materials-e37224730b134e2882972b18fe614ebc)
 
+```A Silly theory means a silly graph.
+```
+
+![silly graph]({{site.baseurl}}/resources/silly_graph.png)
 #### What to avoid
+
 
 - Don't do pie chart.
 - Don't do donut chart.
