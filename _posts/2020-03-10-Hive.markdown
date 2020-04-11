@@ -5,4 +5,14 @@ date:   2020-03-10 22:59:07 +0800
 ---
 Apache Hive development notes
 
+#### Data Type Notes
+
+1. String can be specified within single quote or double quote.
+
+2. <pre>TIMESTAMP</pre> are interpreted as UTC times. <pre>to_utc_timestamp</pre> and <pre>from_utc_timestamp</pre> built-in functions are offered.
+
+#### HiveQL
+
+>The Hive concept of a database is essentially just a catalog or namespace of tables.
+
 [Learning notes](https://www.notion.so/bobzeng/Hive-32d05a84ec344fdfac1ffd99cc13bb79)
