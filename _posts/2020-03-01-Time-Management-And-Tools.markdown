@@ -29,6 +29,7 @@ But are we just too naive to think that everything can be broken down into simil
     > capped timespan 10 weeks; each step-project gets evaluated multiple times
   - Tasks 
 
+## Time Management for Teams
 
 ## Reference
 [1][What is Gist Planning?](https://www.evernote.com/l/AapPbht7wztLQqtka0cScse3AzkMtufdx1w)
