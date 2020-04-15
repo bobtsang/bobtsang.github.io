@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Time Series"
+title:  "Causality in Time Series"
 date:   2020-03-06 22:00:00 +0800
 ---
 This is for summarizing theories and implementation of modelling causality in time series data.
