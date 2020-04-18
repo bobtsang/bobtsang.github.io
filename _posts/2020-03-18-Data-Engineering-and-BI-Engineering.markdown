@@ -29,3 +29,6 @@ Aka, enterprise data warehouse (EDW)， current and historical data in one singl
 [2] [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
 [3] [Awesome BI Engineering](https://github.com/thenaturalist/awesome-business-intelligence)
 [4] [Data Warehouse](https://www.wikiwand.com/en/Data_warehouse)
+[5] [Designing Data Intensive Application] (https://dataintensive.net/)
+[6] [OLAP](https://www.wikiwand.com/en/Online_analytical_processing)
+[7] [Dimensional Modelling](https://www.wikiwand.com/en/Dimensional_modeling)
