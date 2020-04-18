@@ -20,6 +20,7 @@ Aka, enterprise data warehouse (EDW)， current and historical data in one singl
     - Staging: Intermediate storage area to increase the efficiency of ETL process
     - Data integration
     - Data dictionary
+    > centralized repository of information about data such as meaning, relationships to other data, origin, usage, and format
         
 
 #### Reference
