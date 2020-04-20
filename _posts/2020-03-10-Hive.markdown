@@ -15,4 +15,9 @@ Apache Hive development notes
 
 >The Hive concept of a database is essentially just a catalog or namespace of tables.
 
+#### Apache Hive
+
+ > Hive offers no support for row-level inserts, updates, and deletes. Hive doesn’t support transactions. Hive adds extensions to provide better performance in the context of Hadoop and to integrate with custom extensions and even external programs.
+
+
 [Learning notes](https://www.notion.so/bobzeng/Hive-32d05a84ec344fdfac1ffd99cc13bb79)
