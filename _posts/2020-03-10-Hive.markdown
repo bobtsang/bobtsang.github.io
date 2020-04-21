@@ -5,6 +5,11 @@ date:   2020-03-10 22:59:07 +0800
 ---
 Apache Hive development notes
 
+#### Introduction
+
+ > Hive offers no support for row-level inserts, updates, and deletes. Hive doesn’t support transactions. Hive adds extensions to provide better performance in the context of Hadoop and to integrate with custom extensions and even external programs.
+
+
 #### Data Type Notes
 
 1. String can be specified within single quote or double quote.
@@ -15,9 +20,11 @@ Apache Hive development notes
 
 >The Hive concept of a database is essentially just a catalog or namespace of tables.
 
-#### Apache Hive
+#### Hive Anti-pattern
 
- > Hive offers no support for row-level inserts, updates, and deletes. Hive doesn’t support transactions. Hive adds extensions to provide better performance in the context of Hadoop and to integrate with custom extensions and even external programs.
+>However, Hive is implemented and used in ways that are very different from conventional relational databases. Often, users try to carry over paradigms from the relational world that are actually Hive anti-patterns.
 
+
+#### Reference
 
 [Learning notes](https://www.notion.so/bobzeng/Hive-32d05a84ec344fdfac1ffd99cc13bb79)
