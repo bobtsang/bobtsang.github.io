@@ -24,6 +24,11 @@ Apache Hive development notes
 
 >However, Hive is implemented and used in ways that are very different from conventional relational databases. Often, users try to carry over paradigms from the relational world that are actually Hive anti-patterns.
 
+- Table-by-day
+- Over partitioning
+- Unique keys and normalisation
+    >“Hive, however, does not have the concept of primary keys or automatic, sequence-based key generation. Joins should be avoided in favor of denormalized data, when feasible.”
+
 
 #### Reference
 
