@@ -30,7 +30,7 @@ Apache Hive development notes
     >“Hive, however, does not have the concept of primary keys or automatic, sequence-based key generation. Joins should be avoided in favor of denormalized data, when feasible.”
   
   - Array, Map and Struct: one-to-many data inside a single row.
-  - The primary reason of denormalisation is to avoid <b> disk seek</b>
+  - The primary reason of denormalisation is to avoid <b> disk seek</b>, but with greater risk of inconsistency
 
 #### Reference
 
