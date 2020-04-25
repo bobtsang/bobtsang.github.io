@@ -32,6 +32,8 @@ Apache Hive development notes
   - Array, Map and Struct: one-to-many data inside a single row.
   - The primary reason of denormalisation is to avoid <b> disk seek</b>, but with greater risk of inconsistency
 
+- > Hive has a special syntax for producing multple aggregations from a single pass through a source of data, rather than rescanning it for each aggregation
+
 #### Reference
 
 [Learning notes](https://www.notion.so/bobzeng/Hive-32d05a84ec344fdfac1ffd99cc13bb79)
