@@ -14,6 +14,7 @@ Aka, enterprise data warehouse (EDW)， current and historical data in one singl
     - Operational system: this is a term referred to a system that is used to process day-to-day transactions of an organisation in data warehousing.Similar terms are OLTP (online transaction processing sytems)
 
     - ODS:operational data store is used for operational reporting and as a source for the data warehouse. And generally speaking, it's used for operational decision making, in contrast of EDW, which is used for tactical and strategic decision support. Taking data from multiple sources of operational systems, ODS loosely integrates them together with no feeding back to operational systems.
+    
     - EDH (Enterprise Data Hub)
 
 ##### ETL
