@@ -20,14 +20,30 @@ Apache Hive development notes
 
 ##### Primitive Types
 - Integers
-  - TINYINT
-  - SMALLINT
-  - INT
-  - BIGINT
+  - <pre>TINYINT</pre>
+  - <pre>SMALLINT</pre>
+  - <pre>INT</pre>
+  - <pre>BIGINT</pre>
+- Boolean type
+- Floating point numbers
+  - <pre>FLOAT</pre>: single precision
+  - <pre>DOUBLE</pre>: Double precision
+- Fixed point numbers
+  - <pre>DECIMAL</pre>
+- String types
+  - STRING
+  - VARCHAR: maximum length specified
+  - CHAR: with defined length
+- Date and time types
+  - TIMESTAMP
+  - TIMESTAMP WITH LOCAL TIME ZONE
+  - DATE
 
+##### Notes
 1. String can be specified within single quote or double quote.
-
 2. `TIMESTAMP` are interpreted as UTC times. `to_utc_timestamp` and `from_utc_timestamp` built-in functions are offered.
+3. Hierarchy
+![tree is not for this.use things properly]({{site.baseurl}}/resources/hive_type_hierarchy.PNG)
 
 #### HiveQL
 
