@@ -36,4 +36,6 @@ Apache Hive development notes
 
 #### Reference
 
-[Learning notes](https://www.notion.so/bobzeng/Hive-32d05a84ec344fdfac1ffd99cc13bb79)
+1. [Learning notes](https://www.notion.so/bobzeng/Hive-32d05a84ec344fdfac1ffd99cc13bb79)
+2. [Apache Hive Documentation](https://cwiki.apache.org/confluence/display/Hive)
+3. Programming Hive, Edward Capriolo etc., 2012
