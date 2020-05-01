@@ -9,8 +9,21 @@ Apache Hive development notes
 
  > Hive offers no support for row-level inserts, updates, and deletes. Hive doesn’t support transactions. Hive adds extensions to provide better performance in the context of Hadoop and to integrate with custom extensions and even external programs.
 
+#### Data Units
 
-#### Data Type Notes
+- Databases: Namespace function to avoid naming conflicts
+- Tables
+- Partitions
+- Buckets: Data in each partition may in turn be divided into Buckets
+
+#### Type System
+
+##### Primitive Types
+- Integers
+  - TINYINT
+  - SMALLINT
+  - INT
+  - BIGINT
 
 1. String can be specified within single quote or double quote.
 
@@ -39,3 +52,4 @@ Apache Hive development notes
 1. [Learning notes](https://www.notion.so/bobzeng/Hive-32d05a84ec344fdfac1ffd99cc13bb79)
 2. [Apache Hive Documentation](https://cwiki.apache.org/confluence/display/Hive)
 3. Programming Hive, Edward Capriolo etc., 2012
+4. [Hive Tutorial](https://cwiki.apache.org/confluence/display/Hive/Tutorial)
