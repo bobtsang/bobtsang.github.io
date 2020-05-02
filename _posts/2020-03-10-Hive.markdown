@@ -44,6 +44,7 @@ Apache Hive development notes
 1. String can be specified within single quote or double quote.
 2. `TIMESTAMP` are interpreted as UTC times. `to_utc_timestamp` and `from_utc_timestamp` built-in functions are offered.
 3. Hierarchy
+
 ![tree is not for this.use things properly]({{site.baseurl}}/resources/hive_type_hierarchy.png)
 
 
