@@ -46,9 +46,6 @@ Apache Hive development notes
 3. Hierarchy
 ![tree is not for this.use things properly]({{site.baseurl}}/resources/hive_type_hierarchy.PNG)
 
-#### HiveQL
-
->The Hive concept of a database is essentially just a catalog or namespace of tables.
 
 #### Hive Anti-pattern
 
