@@ -19,6 +19,8 @@ Operational data store is used for operational reporting and as a source for the
 
 - EDH (Enterprise Data Hub)
 
+![tree is not for this.use things properly]({{site.baseurl}}/resources/different-layers-in-data-warehouse-architecture.png)
+
 ##### ETL
 
     - Staging: Intermediate storage area to increase the efficiency of ETL process
