@@ -23,12 +23,11 @@ Operational data store is used for operational reporting and as a source for the
 
 ##### ETL
 
-    - Staging: Intermediate storage area to increase the efficiency of ETL process
-    - Data integration
-    - Data dictionary
+- Staging: Intermediate storage area to increase the efficiency of ETL process
+- Data integration
+- Data dictionary
 
-    > centralized repository of information about data such as meaning, relationships to other data, origin, usage, and format
-        
+> centralized repository of information about data such as meaning, relationships to other data, origin, usage, and format
 
 #### Reference
 
