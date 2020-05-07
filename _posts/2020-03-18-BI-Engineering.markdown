@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Data Engineering and Business Intelligence Engineering"
+title:  "Business Intelligence Engineering"
 date:   2020-03-18 22:00:00 +0800
 ---
 
@@ -9,7 +9,6 @@ date:   2020-03-18 22:00:00 +0800
 
 Aka, enterprise data warehouse (EDW)， current and historical data in one single place, which will provide single source of truth.
 
-##### Upsteam sources
 
 - Operational system
 This is a term referred to a system that is used to process day-to-day transactions of an organisation in data warehousing.Similar terms are OLTP (online transaction processing sytems)
