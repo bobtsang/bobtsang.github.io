@@ -38,3 +38,4 @@ Operational data store is used for operational reporting and as a source for the
 6. [OLAP](https://www.wikiwand.com/en/Online_analytical_processing)
 7. [Dimensional Modelling](https://www.wikiwand.com/en/Dimensional_modeling)
 8. [Beyond Data Warehousing:What’s Next in Business Intelligence?,2004](https://dl.acm.org/doi/pdf/10.1145/1031763.1031765)
+9. Business Intelligence at Uber, 2017
