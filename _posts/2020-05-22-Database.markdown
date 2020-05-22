@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Imbalance Classification"
+date:   2020-05-22 22:59:07 +0800
+---
+#### Database system overview
+
+Database system would mainly compose 3 parts
+
+1. transport layer accepting requests
+2. query processor optimising the queries
+3. an execution engine
+
+#### Reference
+
+[1]Database Internals,Alex Petrov, 2019
