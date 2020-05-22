@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Imbalance Classification"
+title:  "Database"
 date:   2020-05-22 22:59:07 +0800
 ---
 #### Database system overview
