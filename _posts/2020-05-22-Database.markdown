@@ -12,6 +12,14 @@ Database system would mainly compos 4 parts
 3. an execution engine
 4. storage engine
 
+#### Comparing Database
+
+- Schema and record sizes
+- Number of clients
+- Types of queries and access pattern
+- Rates of the read and write queries
+- Expected changes in any of these variables
+
 #### Reference
 
 [1]Database Internals,Alex Petrov, 2019
