@@ -19,6 +19,7 @@ Apache Hive development notes
 #### Type System
 
 ##### Primitive Types
+
 - Integers
   - `TINYINT`
   - `SMALLINT`
@@ -68,3 +69,4 @@ Apache Hive development notes
 2. [Apache Hive Documentation](https://cwiki.apache.org/confluence/display/Hive)
 3. Programming Hive, Edward Capriolo etc., 2012
 4. [Hive Tutorial](https://cwiki.apache.org/confluence/display/Hive/Tutorial)
+5. [Hive - A Warehousing Solution Over a Map-Reduce Framework](https://event.cwi.nl/lsde/papers/hive.pdf), Ashish Thusoo
