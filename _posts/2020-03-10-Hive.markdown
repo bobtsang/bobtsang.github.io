@@ -9,12 +9,15 @@ Apache Hive development notes
 
  > Hive offers no support for row-level inserts, updates, and deletes. Hive doesn’t support transactions. Hive adds extensions to provide better performance in the context of Hadoop and to integrate with custom extensions and even external programs.
 
+ ![Hive Architecture](https://cwiki.apache.org/confluence/download/attachments/27362072/system_architecture.png?version=1&modificationDate=1414560669000&api=v2)
+
 #### Data Units
 
 - Databases: Namespace function to avoid naming conflicts
 - Tables
+  - Each table has a corresponding HDFS directory.
 - Partitions
-- Buckets: Data in each partition may in turn be divided into Buckets
+- Buckets: Data in each partition may in turn be divided into Buckets; Each bucket is stored as a file in the partition directory.
 
 #### Type System
 
