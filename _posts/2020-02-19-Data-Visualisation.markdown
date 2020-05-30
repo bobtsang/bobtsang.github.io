@@ -7,7 +7,9 @@ date:   2020-02-19 22:00:00 +0800
 
 I think data visualisation is the most underestimiated skills in data education. Engineers and analysts would not pay too much attenntion to it because of various reasons.
 
-```Anyone can turn data into some graphs. It's remarkable and ..scary.
+```
+Anyone can turn data into some graphs. It's remarkable and ..scary.
+
 ```
 
 ### Why visualisation
