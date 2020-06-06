@@ -42,7 +42,7 @@ Apache Hive development notes
   - `TIMESTAMP`
   - `TIMESTAMP WITH LOCAL TIME ZONE`
   - `DATE`
-- STRUCT and MAP
+- ARRAY, STRUCT and MAP
 
 In the following example, <pre>address</pre> is <pre>struct</pre>.
 > “hive> SELECT name, address.city FROM employees;
