@@ -87,9 +87,29 @@ Excerpt From: Edward Capriolo, Dean Wampler, and Jason Rutherglen. “Programmin
 If types are different.
 >“Otherwise, if the types differ, then the value of the smaller of the two types is promoted to wider type of the other value. (Wider in the sense that a type with more bytes can hold a wider range of values.)”
 
-##### Functions
-
 ##### Table generating functions
+
+##### Floating-Point Comparisons
+
+“Actually, it doesn’t work. Here’s why. The number 0.2 can’t be represented exactly in a FLOAT or DOUBLE. (See http://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html for an in-depth discussion of floating-point number issues.) In this particular case, the closest exact value is just slightly greater than 0.2, with a few nonzero bits at the least significant end of the number.
+To simplify things a bit, let’s say that 0.2 is actually 0.2000001 for FLOAT and 0.200000000001 for DOUBLE, because an 8-byte DOUBLE has more significant digits (after the decimal point). When the FLOAT value from the table is converted to DOUBLE by Hive, it produces the DOUBLE value 0.200000100000, which is greater than 0.200000000001. That’s why the query results appear to use >= not >!” [3]
+
+##### Join Optimizations
+
+> When joining three or more tables, if every `ON` clause uses the same join key, a single `MapReduce` job will be used.
+
+Hive also assumes that the `last` table in the query is the largest.
+
+- `LEFT SEMI JOIN` are more efficient than the more general inner join in that for a given record in the lefthand table, Hive can stop looking for matching records in the righthand table as soon as any match is found.
+
+- `Map-side` joins
+If all but one table is small, the largest table can be streamed through the mappers while the small tables are cached in memory. Hive can do all the joining map-side.
+
+- `ORDER BY` vs. `SORT BY` ( + `DISTRIBUTED BY`)
+`SORT BY` orders the data only within each reducer (local ordering).
+
+> “We can use DISTRIBUTE BY to ensure that the records for each stock symbol go to the same reducer, then use SORT BY to order the data the way we want.”
+
 
 #### Reference
 
