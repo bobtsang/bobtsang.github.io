@@ -76,6 +76,12 @@ Excerpt From: Edward Capriolo, Dean Wampler, and Jason Rutherglen. “Programmin
 
 - > Hive has a special syntax for producing multple aggregations from a single pass through a source of data, rather than rescanning it for each aggregation
 
+#### Queries
+
+##### Query data for similar column names
+
+>“hive> SELECT symbol, `price.*` FROM stocks;”
+
 #### Reference
 
 1. [Learning notes](https://www.notion.so/bobzeng/Hive-32d05a84ec344fdfac1ffd99cc13bb79)
