@@ -42,7 +42,7 @@ Apache Hive development notes
   - `TIMESTAMP`
   - `TIMESTAMP WITH LOCAL TIME ZONE`
   - `DATE`
-- ARRAY, STRUCT and MAP
+- `ARRAY`, `STRUCT` and `MAP`
 
 In the following example, <pre>address</pre> is <pre>struct</pre>.
 > “hive> SELECT name, address.city FROM employees;
@@ -80,7 +80,16 @@ Excerpt From: Edward Capriolo, Dean Wampler, and Jason Rutherglen. “Programmin
 
 ##### Query data for similar column names
 
->“hive> SELECT symbol, `price.*` FROM stocks;”
+<code>hive> SELECT symbol, `price.*` FROM stocks;</code>
+
+##### Type conversion
+
+If types are different.
+>“Otherwise, if the types differ, then the value of the smaller of the two types is promoted to wider type of the other value. (Wider in the sense that a type with more bytes can hold a wider range of values.)”
+
+##### Functions
+
+##### Table generating functions
 
 #### Reference
 
