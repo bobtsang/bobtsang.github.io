@@ -42,6 +42,16 @@ Apache Hive development notes
   - `TIMESTAMP`
   - `TIMESTAMP WITH LOCAL TIME ZONE`
   - `DATE`
+- STRUCT and MAP
+
+In the following example, <pre>address</pre> is <pre>struct</pre>.
+> “hive> SELECT name, address.city FROM employees;
+John Doe    Chicago
+Mary Smith  Chicago
+Todd Jones  Oak Park
+Bill King   Obscuria”
+
+Excerpt From: Edward Capriolo, Dean Wampler, and Jason Rutherglen. “Programming Hive.” Apple Books. 
 
 ##### Notes
 
