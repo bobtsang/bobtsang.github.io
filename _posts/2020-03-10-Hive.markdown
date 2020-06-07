@@ -9,7 +9,16 @@ Apache Hive development notes
 
  > Hive offers no support for row-level inserts, updates, and deletes. Hive doesn’t support transactions. Hive adds extensions to provide better performance in the context of Hadoop and to integrate with custom extensions and even external programs.
 
+#### Architecture
+
  ![Hive Architecture](https://cwiki.apache.org/confluence/download/attachments/27362072/system_architecture.png?version=1&modificationDate=1414560669000&api=v2)
+
+ `Compliler` does the following:
+
+- parses the query
+- does semantic analysis on the different query blocks
+- and query expressions
+- and eventually generates an execution plan with the help of the table and partition metadata looked up from the `Metastore`.
 
 #### Data Units
 
