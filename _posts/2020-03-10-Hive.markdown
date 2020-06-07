@@ -20,6 +20,8 @@ Apache Hive development notes
 - and query expressions
 - and eventually generates an execution plan with the help of the table and partition metadata looked up from the `Metastore`.
 
+`Metastore` stores in the structure information including table, columns and partitions 
+
 #### Data Units
 
 - Databases: Namespace function to avoid naming conflicts
