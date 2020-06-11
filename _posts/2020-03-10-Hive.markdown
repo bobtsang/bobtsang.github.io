@@ -17,17 +17,17 @@ Apache Hive development notes
 
 `Compiler` does the following:
 
-- parses the query
-- does semantic analysis on the different query blocks
-- and query expressions
-- and eventually generates an execution plan with the help of the table and partition metadata looked up from the `Metastore`.
+- **Parser**:parses the query;Transform a query string to a parse tree representation
+- **Semantic Analyzer**: does semantic analysis on the different query blocks
+- **Logical Plan Generator**
+- **Query Plan Generator**: converts the logical plan into a series of map-reduce jobs.eventually generates an execution plan with the help of the table and partition metadata looked up from the `Metastore`.
 
 ##### Metastore
 
 `Metastore` stores in the structure information including table, columns and partitions.
 
 - Data abstraction
-- Data discovery 
+- Data discovery
 
 #### Data Units
 
