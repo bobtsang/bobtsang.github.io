@@ -13,14 +13,21 @@ Apache Hive development notes
 
  ![Hive Architecture](https://cwiki.apache.org/confluence/download/attachments/27362072/system_architecture.png?version=1&modificationDate=1414560669000&api=v2)
 
- `Compliler` does the following:
+##### Compiler
+
+`Compiler` does the following:
 
 - parses the query
 - does semantic analysis on the different query blocks
 - and query expressions
 - and eventually generates an execution plan with the help of the table and partition metadata looked up from the `Metastore`.
 
-`Metastore` stores in the structure information including table, columns and partitions 
+##### Metastore
+
+`Metastore` stores in the structure information including table, columns and partitions.
+
+- Data abstraction
+- Data discovery 
 
 #### Data Units
 
@@ -87,7 +94,9 @@ Excerpt From: Edward Capriolo, Dean Wampler, and Jason Rutherglen. “Programmin
 
 - > Hive has a special syntax for producing multple aggregations from a single pass through a source of data, rather than rescanning it for each aggregation
 
-#### Queries
+#### HiveSQL
+
+>These scripts can be written in any language using a simple row-based streaming interface – read rows from standard input and write out rows to standard output. This flexibility comes at a cost of a performance hit caused by converting rows from and to strings. However, we have seen that users do not mind this given that they can implement their scripts in the language of their choice. 
 
 ##### Query data for similar column names
 
@@ -120,7 +129,6 @@ If all but one table is small, the largest table can be streamed through the map
 `SORT BY` orders the data only within each reducer (local ordering).
 
 > “We can use DISTRIBUTE BY to ensure that the records for each stock symbol go to the same reducer, then use SORT BY to order the data the way we want.”
-
 
 #### Reference
 
