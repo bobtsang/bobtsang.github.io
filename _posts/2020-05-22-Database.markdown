@@ -20,6 +20,22 @@ Database system would mainly compos 4 parts
 - Rates of the read and write queries
 - Expected changes in any of these variables
 
+#### Naming Convention
+
+##### Tables
+
+1. Singular Names
+Table names should be singular because
+
+- Indicating one record per row, level of details; It's like `class` in programming language
+- do not need to worry about plural transformation in English: person --> people
+
+2. Prefixes
+
+- Should avoid if not necessary; typing more characteres if having it
+- Helpful when you need to group related tables together
+
 #### Reference
 
-[1]Database Internals,Alex Petrov, 2019
+[1]Database Internals,Alex Petrov, 2019 <br>
+[2][Naming convention](http://en.dwhwiki.info/templates/process/naming_conventions), Data Warehouse Wiki
