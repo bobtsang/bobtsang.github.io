@@ -85,3 +85,4 @@ Mainly two schools of thoughts
 1. [Learning notes](https://www.notion.so/bobzeng/Time-Series-de89af1b5fa04d8690ab90b39c62548c)
 2. [Causality: Statistical Perspectives and Applications](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119945710), Carlo Berzuini etc., 2012
 3.Inference and Causality in Economic Time Series Models, John Geweke
+3. [Granger Causality (Prediction)](https://www.youtube.com/watch?v=XqsSB_vpHLs), 2019
