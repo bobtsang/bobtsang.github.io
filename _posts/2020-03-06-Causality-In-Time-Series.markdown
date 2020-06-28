@@ -16,6 +16,9 @@ Mainly two schools of thoughts
 #### Types of causality
 
 - Granger causality
+  According to 3, Granger causality is defined as 
+![autoregression formula]({{site.baseurl}}/resources/gc1.png)
+![gc error term]({{site.baseurl}}/resources/gc2.png)
 - Instantaneous causality
 - Multi-step causality
 
