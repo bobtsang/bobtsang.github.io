@@ -20,6 +20,13 @@ Database system would mainly compos 4 parts
 - Rates of the read and write queries
 - Expected changes in any of these variables
 
+#### Database Management System (DBMS)
+
+![dbms]({{site.baseurl}}/resources/dbms.png)
+
+> A database system usually separates data files and index files: data files store data records, while index files store record metadata and use it to locate records in data files.
+
+
 #### Naming Convention
 
 ##### Tables
