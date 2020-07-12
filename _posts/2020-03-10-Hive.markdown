@@ -7,6 +7,7 @@ date:   2020-03-10 22:59:07 +0800
 #### Introduction
 
 On top of `Apache Hadoop`, Hive is doing the following
+
 - SQL interface
 - Access to files either directly in `Apache HDFS` or in other data storage system like `Apache HBase`
 - Query execution via `Apache Tez`, `Apache Spark` or `MapReduce`
@@ -16,6 +17,11 @@ On top of `Apache Hadoop`, Hive is doing the following
 #### Architecture
 
  ![Hive Architecture](https://cwiki.apache.org/confluence/download/attachments/27362072/system_architecture.png?version=1&modificationDate=1414560669000&api=v2)
+
+##### HDFS
+
+- `NameNode`: a master server that manages the file system namespace and regulates access to files by clients
+- `DataNode`: Data storage
 
 ##### Compiler
 
