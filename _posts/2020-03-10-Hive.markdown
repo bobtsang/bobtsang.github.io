@@ -21,7 +21,7 @@ On top of `Apache Hadoop`, Hive is doing the following
 ##### HDFS
 
 - `NameNode`: a master server that manages the file system namespace and regulates access to files by clients
-- `DataNode`: Data storage
+- `DataNode`: manage Data storage
 
 ##### Compiler
 
@@ -38,6 +38,14 @@ On top of `Apache Hadoop`, Hive is doing the following
 
 - Data abstraction
 - Data discovery
+
+#### File Types
+
+- Avro Files
+- ORC Files
+- Parquet
+- Comprssed Data Storage
+- LZO compression
 
 #### Data Units
 
