@@ -6,7 +6,7 @@ date:   2020-07-06 23:51:07 +0800
 
 ### Terminology
 
-![img](https://jfrog--c.eu12.content.force.com/servlet/servlet.ImageServer?id=0151r000006uDeS&oid=00D20000000M3v0&lastMod=1584629589000)
+![docker flow](https://jfrog--c.eu12.content.force.com/servlet/servlet.ImageServer?id=0151r000006uDeS&oid=00D20000000M3v0&lastMod=1584629589000)
 
 - `Dockerfile` <br>
     static files which contains instructions to create a Docker image, by using `docker build` command
