@@ -4,9 +4,21 @@ title:  "Docker"
 date:   2020-07-06 23:51:07 +0800
 ---
 
+### Terminology
+
+[img](https://jfrog--c.eu12.content.force.com/servlet/servlet.ImageServer?id=0151r000006uDeS&oid=00D20000000M3v0&lastMod=1584629589000)
+
+- `Dockerfile` <br>
+    static files which contains instructions to create a Docker image, by using `docker build` command
+- `Image` <br>
+  - <b> immutable</b> file that contains source code, libraries, dependencies.
+  - image layers
+- `Container`<br>
+    runnable instance of an image
 
 ### Reference
 
 [1] Docker in Action, Jeffrey Nickoloff, 2019 <br>
 [2] [Docker documentation](https://docs.docker.com/) <br>
 [3] [Docker curriculum](https://github.com/prakhar1989/docker-curriculum)
+[4] [Moby Project - a collaborative project for the container ecosystem to assemble container-based systems](https://github.com/moby/moby/blob/master/image/spec/v1.md)
