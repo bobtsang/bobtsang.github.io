@@ -3,6 +3,7 @@ layout: post
 title:  "Scalable Data Pipeline"
 date:   2020-07-21 22:00:00 +0800
 ---
+![data pipeline]({{site.baseurl}}/resources/data_pipeline.png)
 
 ### Reference
 
