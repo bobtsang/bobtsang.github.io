@@ -24,3 +24,4 @@ date:   2020-07-06 23:51:07 +0800
 [4] [Moby Project - a collaborative project for the container ecosystem to assemble container-based systems](https://github.com/moby/moby/blob/master/image/spec/v1.md) <br>
 [5] [What's difference between COPY and ADD in Dockerfile](https://stackoverflow.com/questions/24958140/what-is-the-difference-between-the-copy-and-add-commands-in-a-dockerfile) <br>
 [6] [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/) <br>
+[7] [Data Science Workflows using Docker Containers](https://www.youtube.com/watch?time_continue=32&v=oO8n3y23b6M&feature=emb_logo) <br>
