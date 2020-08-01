@@ -52,6 +52,11 @@ On top of `Apache Hadoop`, Hive is doing the following
 - Databases: Namespace function to avoid naming conflicts
 - Tables
   - Each table has a corresponding HDFS directory.
+  - Managed and external tables
+    > CREATE TABLE IF NOT EXISTS
+    > CREATE EXTERNAL TABLE IF NOT EXISTS
+    > “Because it’s external, Hive does not assume it owns the data. Therefore, dropping the table does not delete the data, although the metadata for the table will be deleted.”
+
 - Partitions
 - Buckets: Data in each partition may in turn be divided into Buckets; Each bucket is stored as a file in the partition directory.
 
