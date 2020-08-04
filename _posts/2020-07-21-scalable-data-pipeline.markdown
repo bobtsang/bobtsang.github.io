@@ -16,6 +16,7 @@ date:   2020-07-21 22:00:00 +0800
 - Map-Reduce
   - Hadoop Map-Reduce
   - Apache Spark
+     ![architecture](https://miro.medium.com/max/3400/1*fQ5VWad1nu4yYt2MOuSBsQ.png)
 
 ### Stream Computation
 
