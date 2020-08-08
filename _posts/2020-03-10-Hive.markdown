@@ -153,6 +153,9 @@ If all but one table is small, the largest table can be streamed through the map
 
 > “We can use DISTRIBUTE BY to ensure that the records for each stock symbol go to the same reducer, then use SORT BY to order the data the way we want.”
 
+#### Table Statistics
+
+
 #### Reference
 
 1. [Learning notes](https://www.notion.so/bobzeng/Hive-32d05a84ec344fdfac1ffd99cc13bb79)
@@ -163,3 +166,4 @@ If all but one table is small, the largest table can be streamed through the map
 6. [Hive Architecture in Depth](https://medium.com/plumbersofdatascience/hive-architecture-in-depth-ba44e8946cbc)
 7. [The Google File System](https://www.notion.so/bobzeng/The-Google-File-System-52b1a6d925c24d588c8e994d401c21f8), 2003
 8. [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf),2004, Jeffrey Dean
+9/ [Statistics in Hive](https://cwiki.apache.org/confluence/display/Hive/StatsDev)
