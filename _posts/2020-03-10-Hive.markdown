@@ -155,6 +155,21 @@ If all but one table is small, the largest table can be streamed through the map
 
 #### Table Statistics
 
+Statistics collection process is similar for new and existing tables.
+
+> During the creation, every mapper while copying the rows from the source table in the FileSink operator, gathers statistics for the rows it encounters and publishes them into a Database (possibly MySQL). At the end of the MapReduce job, published statistics are aggregated and stored in the MetaStore.
+
+`ANALYZE TABLE [workspace.]table_name COMPUTE STATISTICS [(column1, column2,...)] [SAMPLE number PERCENT]`
+
+#### Optimisation
+
+- Execution engine
+Choose `Tez` instead of `MapReduce` would improve performance
+- File format
+- Partioning
+- Vectorization
+- Cost based optimisation
+- Indexing
 
 #### Reference
 
@@ -166,4 +181,5 @@ If all but one table is small, the largest table can be streamed through the map
 6. [Hive Architecture in Depth](https://medium.com/plumbersofdatascience/hive-architecture-in-depth-ba44e8946cbc)
 7. [The Google File System](https://www.notion.so/bobzeng/The-Google-File-System-52b1a6d925c24d588c8e994d401c21f8), 2003
 8. [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf),2004, Jeffrey Dean
-9/ [Statistics in Hive](https://cwiki.apache.org/confluence/display/Hive/StatsDev)
+9. [Statistics in Hive](https://cwiki.apache.org/confluence/display/Hive/StatsDev)
+10. [Shell Scripts to Check Data Integrity in Hive](https://databaseline.tech/shell-scripts-to-check-data-integrity-in-hive/)
