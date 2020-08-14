@@ -183,3 +183,4 @@ Choose `Tez` instead of `MapReduce` would improve performance
 8. [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf),2004, Jeffrey Dean
 9. [Statistics in Hive](https://cwiki.apache.org/confluence/display/Hive/StatsDev)
 10. [Shell Scripts to Check Data Integrity in Hive](https://databaseline.tech/shell-scripts-to-check-data-integrity-in-hive/)
+11. [Cost-based optimisation in Hive](https://cwiki.apache.org/confluence/display/Hive/Cost-based+optimization+in+Hive)
