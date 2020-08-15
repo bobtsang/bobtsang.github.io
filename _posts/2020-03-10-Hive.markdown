@@ -171,6 +171,20 @@ Choose `Tez` instead of `MapReduce` would improve performance
 - Cost based optimisation
 - Indexing
 
+> Distributed SQL query processing in Hadoop differs from conventional relational query engine when it comes to handling of intermediate result sets. Hive query processing often requires sorting and reassembling of intermediate result set; this is called shuffling in Hadoop parlance.
+
+##### Query Optimisation
+
+- Logical query opitmisation
+  - Projection Pruning
+  - Deducing Transitive Predicates
+  - Predicate Push down
+  - Merging of Select-Select, Filter-Filter in to single operator
+  - Multi-way Join
+  - Query Rewrite to accommodate for Join skew on some column values
+- Physical query optimisation: In Hive context, it's MR and Tez optmisation
+
+
 #### Reference
 
 1. [Learning notes](https://www.notion.so/bobzeng/Hive-32d05a84ec344fdfac1ffd99cc13bb79)
@@ -184,3 +198,5 @@ Choose `Tez` instead of `MapReduce` would improve performance
 9. [Statistics in Hive](https://cwiki.apache.org/confluence/display/Hive/StatsDev)
 10. [Shell Scripts to Check Data Integrity in Hive](https://databaseline.tech/shell-scripts-to-check-data-integrity-in-hive/)
 11. [Cost-based optimisation in Hive](https://cwiki.apache.org/confluence/display/Hive/Cost-based+optimization+in+Hive)
+12. [Apache Calcite: A Foundational Framework for Optimized
+Query Processing Over Heterogeneous Data Sources](https://15721.courses.cs.cmu.edu/spring2020/papers/20-optimizer2/p221-begoli.pdf)
