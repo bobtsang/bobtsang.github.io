@@ -14,8 +14,10 @@ date:   2020-08-09 22:59:07 +0800
 ## HDFS
 
 - HDFS stores metadata and application data separately.
-- NameNode: metadata
-- DataNode: application data
+- `NameNode`: metadata
+- `DataNode`: application data; file contents are replicated across multiple `DataNode` for reliability
+
+> The NameNode maintains the namespace tree and the mapping of file blocks to DataNodes (the physical location of file data).
 
 ## Reference
 
