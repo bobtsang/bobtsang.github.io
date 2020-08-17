@@ -200,3 +200,4 @@ Choose `Tez` instead of `MapReduce` would improve performance
 11. [Cost-based optimisation in Hive](https://cwiki.apache.org/confluence/display/Hive/Cost-based+optimization+in+Hive)
 12. [Apache Calcite: A Foundational Framework for Optimized
 Query Processing Over Heterogeneous Data Sources](https://15721.courses.cs.cmu.edu/spring2020/papers/20-optimizer2/p221-begoli.pdf)
+13. [Apache Tez A New Chapter in Hadoop Data Processing](https://sungsoo.github.io/2014/01/15/apache-tez-intro.html)
