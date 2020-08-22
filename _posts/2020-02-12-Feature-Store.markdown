@@ -15,3 +15,9 @@ My teammates and I have been thinking doing some kind of feature store which wil
     
     - need to be confident about where is the data from: data lineage/data management
     - normalised and scaled methodologies
+![tree is not for this.use things properly]({{site.baseurl}}/resources/feature_store.PNG)
+
+## Reference
+
+1. [Feature store for machine learning](https://docs.featurestore.org/)
+2. [Rethinking Feature Store](https://medium.com/@changshe/rethinking-feature-stores-74963c2596f0)
