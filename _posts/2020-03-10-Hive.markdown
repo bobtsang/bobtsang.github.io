@@ -32,7 +32,7 @@ On top of `Apache Hadoop`, Hive is doing the following
   - Transform a query string to a parse tree representation (AST:abstract syntax tree)
 - **Semantic Analyzer**
   - does semantic analysis on the different query blocks
-  - 
+  - AST to operator trees
 - **Logical Plan Generator**
 - **Query Plan Generator**: converts the logical plan into a series of map-reduce jobs.eventually generates an execution plan with the help of the table and partition metadata looked up from the `Metastore`.
 
