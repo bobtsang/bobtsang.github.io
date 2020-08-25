@@ -22,3 +22,5 @@ date:   2020-08-09 22:59:07 +0800
 ## Reference
 
 [1] [Apache Hadoop Documentation](https://hadoop.apache.org/) <br>
+[2] [Apache Ambari](https://ambari.apache.org/)
+[3] [Apache Ranger](https://ranger.apache.org/)
