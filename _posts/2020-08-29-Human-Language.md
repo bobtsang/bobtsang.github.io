@@ -3,6 +3,7 @@ layout: post
 title:  "Human Language"
 date:   2020-08-09 22:59:07 +0800
 ---
+![tree is not for this.use things properly]({{site.baseurl}}/resources/language_family.jpeg)
 
 ## Reference
 
