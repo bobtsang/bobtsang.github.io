@@ -34,6 +34,16 @@ Operational data store is used for operational reporting and as a source for the
 
 ##### SCD: Slowly Changing Dimension
 
+There are 6 types of methodologies to deal with SCD.
+
+0. retain original
+1. overwrite
+2. add new row
+3. add new attribute
+4. add history table
+5. type 4 + type 1
+6. combined type
+
 #### Reference
 
 1. [Data Engineering Cookbook](https://github.com/andkret/Cookbook)
