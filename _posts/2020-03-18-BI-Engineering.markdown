@@ -28,6 +28,12 @@ Operational data store is used for operational reporting and as a source for the
 
 > centralized repository of information about data such as meaning, relationships to other data, origin, usage, and format
 
+#### Business Intelligence Concepts
+
+##### CDC: Change Data Capture
+
+##### SCD: Slowly Changing Dimension
+
 #### Reference
 
 1. [Data Engineering Cookbook](https://github.com/andkret/Cookbook)
