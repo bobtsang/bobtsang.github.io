@@ -4,6 +4,19 @@ title:  "Business Intelligence Engineering"
 date:   2020-03-18 22:00:00 +0800
 ---
 
+#### Major topics for Business Intelligence
+
+##### Single source of truth
+
+- Engineering: data is updated accurately on time
+
+  - Update Pattern: realtime, batch; full dump, incremental
+  - Query Optimisation: depends on platform
+
+- Documentation
+
+##### Analytics
+
 
 #### Data Warehouse
 
