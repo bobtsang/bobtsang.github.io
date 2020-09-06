@@ -87,7 +87,15 @@ On top of `Apache Hadoop`, Hive is doing the following
   - `TIMESTAMP`
   - `TIMESTAMP WITH LOCAL TIME ZONE`
   - `DATE`
-- `ARRAY`, `STRUCT` and `MAP`
+- Complex typs
+  - `ARRAY` 
+  <code>array_name[index]</code>
+  - `STRUCT` 
+  default column names are `col1`, `col2` etc.
+  <code>{val1,val2,val3}</code>
+  <code>struct_name.column_name</code>
+  - `MAP`
+  <code>map_name[key]</code>
 
 In the following example, <pre>address</pre> is <pre>struct</pre>.
 > “hive> SELECT name, address.city FROM employees;
