@@ -67,3 +67,4 @@ There are 6 types of methodologies to deal with SCD.
 6. [OLAP](https://www.wikiwand.com/en/Online_analytical_processing)
 7. [Dimensional Modelling](https://www.wikiwand.com/en/Dimensional_modeling)
 8. [Beyond Data Warehousing:What’s Next in Business Intelligence?,2004](https://dl.acm.org/doi/pdf/10.1145/1031763.1031765)
+9. [How to Track State with Type 2 Dimensional Models](https://engineering.shopify.com/blogs/engineering/track-state-type-2-dimensional-models)

@@ -4,7 +4,11 @@ title:  "Learn Data Engineering"
 date:   2020-03-18 22:00:00 +0800
 ---
 
-Maybe it's the software engineering from data perspective
+> Software engineering from data perspective
+
+- Redis
+- Apache Flink
+- ClickHouse
 
 ## Reference
 
