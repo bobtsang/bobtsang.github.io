@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Causal Graph"
+title:  "Causality in General"
 date:   2020-03-08 19:46:07 +0800
 ---
 
@@ -10,4 +10,4 @@ What is [causal graph](https://www.wikiwand.com/en/Causal_graph)?
 
 #### Reference
 
-[1] [User Causal Graph!](https://towardsdatascience.com/use-causal-graphs-4e3af630cf64)
+[1] [User Causal Graph!](https://towardsdatascience.com/use-causal-graphs-4e3af630cf64) <br>
