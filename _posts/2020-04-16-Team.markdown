@@ -3,7 +3,7 @@ layout: post
 title:  "Team"
 date:   2020-04-16 22:00:00 +0800
 ---
-#### Goal
+## Goal
 
 A good goal should consist of the following.
 
@@ -11,3 +11,7 @@ A good goal should consist of the following.
 - Baseline
 - Trend
 - Time Frame
+
+## Reference
+
+[1] [Manager Playbook](https://github.com/ksindi/managers-playbook)

@@ -11,3 +11,6 @@ What is [causal graph](https://www.wikiwand.com/en/Causal_graph)?
 #### Reference
 
 [1] [User Causal Graph!](https://towardsdatascience.com/use-causal-graphs-4e3af630cf64) <br>
+[2] [Awesome Causality](https://github.com/napsternxg/awesome-causality) <br>
+[3] [Awesome Causality Algorithm](https://github.com/rguo12/awesome-causality-algorithms) <br>
+[4] [Awesome Causality Data](https://github.com/rguo12/awesome-causality-data) <br>
