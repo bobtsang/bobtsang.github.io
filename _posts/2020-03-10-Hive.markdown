@@ -97,6 +97,8 @@ On top of `Apache Hadoop`, Hive is doing the following
   - `MAP`
   <code>map_name[key]</code>
 
+> For MAP, the type of  keys and values are unified. However, STRUCT is more flexible. STRUCT is more like a table, whereas MAP is more like an ARRAY with a customized index.
+
 In the following example, <pre>address</pre> is <pre>struct</pre>.
 > “hive> SELECT name, address.city FROM employees;
 John Doe    Chicago
