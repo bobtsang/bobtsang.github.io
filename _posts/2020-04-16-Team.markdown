@@ -12,6 +12,10 @@ A good goal should consist of the following.
 - Trend
 - Time Frame
 
+## Meetings
+
+Principle of when should we have what meeting
+
 ## Reference
 
 [1] [Manager Playbook](https://github.com/ksindi/managers-playbook)
