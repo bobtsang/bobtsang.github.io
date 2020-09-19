@@ -16,6 +16,12 @@ A good goal should consist of the following.
 
 Principle of when should we have what meeting
 
+## Design of Team
+
+### Role
+
+### Scope
+
 ## Reference
 
 [1] [Manager Playbook](https://github.com/ksindi/managers-playbook)
