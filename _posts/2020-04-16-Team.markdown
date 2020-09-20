@@ -22,6 +22,10 @@ Principle of when should we have what meeting
 
 ### Scope
 
+## Knowledge Base
+
+### How to write technical documentation
+
 ## Reference
 
 [1] [Manager Playbook](https://github.com/ksindi/managers-playbook)
