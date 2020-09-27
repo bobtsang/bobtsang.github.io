@@ -22,6 +22,17 @@ date:   2020-07-06 23:51:07 +0800
 - `Container`<br>
     runnable instance of an image
 
+### Use Data in Docker
+
+> By default all files inside a container are stored on a writable container layer.
+
+- If the container no longer exists, data will be gone
+- The data can be easily move to somewhere else in the host machine
+
+> Docker has two options for containers to store files in the host machine, so that the files are persisted even after the container stops: volumes and bind mounts
+
+- `Volumes` are stored in a part of the host filesystem which is managed by Docker
+
 ### Reference
 
 [1] Docker in Action, Jeffrey Nickoloff, 2019 <br>
