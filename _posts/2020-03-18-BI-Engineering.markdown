@@ -70,3 +70,4 @@ There are 6 types of methodologies to deal with SCD.
 9. [How to Track State with Type 2 Dimensional Models](https://engineering.shopify.com/blogs/engineering/track-state-type-2-dimensional-models)
 10. [Star Schema the Complete Reference, 2010, Christopher Adamson](https://learning.oreilly.com/library/view/star-schema-the/9780071744324/ch00fm6.html)
 11. [The Data Warehouse Toolkit, Margy Ross, Ralph Kimball, 2013](https://learning.oreilly.com/library/view/the-data-warehouse/9781118530801/9781118530801c00.xhtml)
+12. [Airflow Concept](https://airflow.readthedocs.io/en/stable/concepts.html)
