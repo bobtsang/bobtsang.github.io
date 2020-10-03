@@ -21,4 +21,5 @@ What is [causal graph](https://www.wikiwand.com/en/Causal_graph)?
 [3] [Awesome Causality Algorithm](https://github.com/rguo12/awesome-causality-algorithms) <br>
 [4] [Awesome Causality Data](https://github.com/rguo12/awesome-causality-data) <br>
 [5] [Causal Inference in Computer Science](https://www.wikiwand.com/en/Causal_inference#:~:text=Causal%20inference%20is%20the%20process,when%20the%20cause%20is%20changed.)<br>
-[6] [What is causal inference and why should data scientists know? by Ludvig Hult](https://www.youtube.com/watch?v=dFp2Ou52-po&ab_channel=PyConSweden)
+[6] [What is causal inference and why should data scientists know? by Ludvig Hult](https://www.youtube.com/watch?v=dFp2Ou52-po&ab_channel=PyConSweden) <br>
+[7] [A Critical View of the Structural Causal Model](https://arxiv.org/pdf/2002.10007.pdf)
