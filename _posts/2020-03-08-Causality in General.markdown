@@ -3,6 +3,12 @@ layout: post
 title:  "Causality in General"
 date:   2020-03-08 19:46:07 +0800
 ---
+When A and B are dependent, there are three possibilities of their relationship
+
+1. A causes B
+2. B causes A
+3. Something else causes A and B
+
 
 What is [causal graph](https://www.wikiwand.com/en/Causal_graph)?
 
