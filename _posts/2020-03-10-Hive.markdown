@@ -218,3 +218,4 @@ Query Processing Over Heterogeneous Data Sources](https://15721.courses.cs.cmu.e
 14. [Hive on Spark](https://cwiki.apache.org/confluence/display/Hive/Hive+on+Spark%3A+Getting+Started)
 15. [Basic CDC in Spark](https://community.cloudera.com/t5/Community-Articles/Basic-CDC-in-Hadoop-using-Spark-with-Data-Frames/ta-p/246283)
 16. Practical Hive: A Guide to Hadoop Data Warehouse System, Scott Shaw etc. 2016
+17. [Materialised View in Hive](https://cwiki.apache.org/confluence/display/Hive/Materialized+views)
