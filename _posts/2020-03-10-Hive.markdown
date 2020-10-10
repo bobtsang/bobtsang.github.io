@@ -198,6 +198,11 @@ Choose `Tez` instead of `MapReduce` would improve performance
   - Query Rewrite to accommodate for Join skew on some column values
 - Physical query optimisation: In Hive context, it's MR and Tez optmisation
 
+#### Configuration Properties
+
+- `hive.groupby.skewindata`
+
+>These two properties deal with two different situations. You use `hive.groupby.skewindata` when there is a skew caused by group by clause. `hive.optimize.skewjoin` can be used when the data skew is caused by a join clause. The root cause is the same. Hive puts data with the same key to the same reducer.
 
 #### Reference
 
@@ -220,3 +225,4 @@ Query Processing Over Heterogeneous Data Sources](https://15721.courses.cs.cmu.e
 16. Practical Hive: A Guide to Hadoop Data Warehouse System, Scott Shaw etc. 2016
 17. [Materialised View in Hive](https://cwiki.apache.org/confluence/display/Hive/Materialized+views)
 18. [Configuration Properties](https://cwiki.apache.org/confluence/display/Hive/Configuration+Properties)
+19. [What are skew data in Hive?](https://stackoverflow.com/questions/18766721/skewed-tables-in-hive)
