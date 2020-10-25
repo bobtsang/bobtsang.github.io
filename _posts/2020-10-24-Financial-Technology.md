@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Financial Technology"
-date:   2020-03-08 19:46:07 +0800
+date:   2020-10-24 19:46:07 +0800
 ---
 # What exactly is financial technology (FinTech)?
 
