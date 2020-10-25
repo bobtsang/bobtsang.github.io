@@ -60,3 +60,4 @@ Group-By, Cross-Tab, and Sub-Totals,1997](https://arxiv.org/pdf/cs/0701155.pdf)
 5. Data Warehouse System: Design and Implementation, 2014, Alejandro Vaisman etc.
 6. [Semantic data model](https://www.wikiwand.com/en/Semantic_data_model)
 7. [Hadoop vs MPP](https://0x0fff.com/hadoop-vs-mpp/)
+8. [Data Warehouse Wiki](https://www.wikiwand.com/en/Data_warehouse)
