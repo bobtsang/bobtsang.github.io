@@ -14,6 +14,18 @@ What is [causal graph](https://www.wikiwand.com/en/Causal_graph)?
 
 > a causal diagram is a Bayesian network in whic every arrow signifies a direct causal relation, or at least the possibility of one, in the direction of that arrow. --- Judea
 
+#### Terminology
+
+##### SEM: Structural Equation Modelling
+
+It's an integration of the following <sup>10</sup>
+
+- Measurement theory
+- Factor (latent variable) analysis
+- Path analysis
+- Regression
+- Simultaneous equations
+
 #### Reference
 
 [1] [User Causal Graph!](https://towardsdatascience.com/use-causal-graphs-4e3af630cf64) <br>
