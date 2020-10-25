@@ -24,4 +24,5 @@ What is [causal graph](https://www.wikiwand.com/en/Causal_graph)?
 [6] [What is causal inference and why should data scientists know? by Ludvig Hult](https://www.youtube.com/watch?v=dFp2Ou52-po&ab_channel=PyConSweden) <br>
 [7] [A Critical View of the Structural Causal Model](https://arxiv.org/pdf/2002.10007.pdf) <br>
 [8] [Differentiable Causal Discovery Under Unmeasured Confounding](https://arxiv.org/pdf/2010.06978.pdf) <br>
-[9] [Introduction to Structural Equation Modelling](http://statmath.wu-wien.ac.at/courses/StatsWithR/Topic-5.pdf)
+[9] [Introduction to Structural Equation Modelling](http://statmath.wu-wien.ac.at/courses/StatsWithR/Topic-5.pdf) <br>
+[10] [Video: What is structural equation modelling](https://www.youtube.com/watch?v=Flqbo8J3li4&ab_channel=Geek%27sLesson)
