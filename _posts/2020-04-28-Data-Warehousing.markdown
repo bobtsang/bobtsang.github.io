@@ -5,7 +5,19 @@ date:   2020-04-28 22:59:07 +0800
 ---
 ### Goals of Data Warehousing and BI
 
-- Make information easily accessible <sup>
+> Business users want to separate and combine analytic data in endless combinations
+
+- Make information easily accessible <sup>11</sup>
+  - Must be intuitive
+  - Must be obvious to business users, not merely developer
+  - Should mimic business users' thought processes and vocabulary
+  - > Simple and fast
+- Present information consistently
+  - Must be credible: cleaned, quality assured and released only when it is fit for user consumption
+  - Common labels and definitions for contents are used across data sources
+- Adapt to change
+- Must present information in a timely way
+- Foundation for improved decision making
 
 ### Data Warehouse Concepts
 
