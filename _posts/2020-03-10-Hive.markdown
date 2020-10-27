@@ -187,6 +187,9 @@ Choose `Tez` instead of `MapReduce` would improve performance
 
 > Distributed SQL query processing in Hadoop differs from conventional relational query engine when it comes to handling of intermediate result sets. Hive query processing often requires sorting and reassembling of intermediate result set; this is called shuffling in Hadoop parlance.
 
+- Ordering of in multitable join <sup>20</sup>
+>
+
 ##### Query Optimisation
 
 - Logical query opitmisation
@@ -226,3 +229,4 @@ Query Processing Over Heterogeneous Data Sources](https://15721.courses.cs.cmu.e
 17. [Materialised View in Hive](https://cwiki.apache.org/confluence/display/Hive/Materialized+views)
 18. [Configuration Properties](https://cwiki.apache.org/confluence/display/Hive/Configuration+Properties)
 19. [What are skew data in Hive?](https://stackoverflow.com/questions/18766721/skewed-tables-in-hive)
+20. [Apache Hive Optimization Techniques, Ankit Prakash Gupta](https://towardsdatascience.com/apache-hive-optimization-techniques-2-e60b6200eeca)
