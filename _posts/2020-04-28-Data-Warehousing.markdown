@@ -25,6 +25,7 @@ date:   2020-04-28 22:59:07 +0800
 ![tree is not for this.use things properly]({{site.baseurl}}/resources/data-cube.png)
   - **Dimensions** are perspective used to analyze the data.
   - **Dimensional level** means granularity.
+  > In many ways, the data warehouse is only as good as the dimension attributes
   - **Facts** are associated with numberical measures.
 
 ### Data Warehouse Architecture
