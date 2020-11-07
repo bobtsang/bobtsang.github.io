@@ -58,6 +58,8 @@ date:   2020-04-28 22:59:07 +0800
   - Statistical modelling
   - Data mining
 
+![BI architecture]({{site.baseurl}}/resources/kimball_bi_architecture.png)
+
 ### Hierarchy Design
 
 - Balanced Hierarchies
