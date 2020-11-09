@@ -84,3 +84,4 @@ Group-By, Cross-Tab, and Sub-Totals,1997](https://arxiv.org/pdf/cs/0701155.pdf)
 10. [一种通用的数据库分层方法](https://www.notion.so/bobzeng/6b0c642ec83b430ca73054335519d6a1)
 11. The Data Warehouse Toolkit: The Definitive Guide, Kimball
 12. [Implementating a Real-Time Data Warehouse with Flink](https://www.alibabacloud.com/blog/implementating-a-real-time-data-warehouse-with-flink_595681)
+13. [Enterprise Bus Matrix](https://www.wikiwand.com/en/Enterprise_bus_matrix)
