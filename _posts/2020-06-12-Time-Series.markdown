@@ -16,3 +16,4 @@ date:   2020-06-12 22:00:00 +0800
 4. statsmodels documentation, [statsmodels.stattools.grangercausalitytests](https://www.statsmodels.org/stable/generated/statsmodels.tsa.stattools.grangercausalitytests.html)
 5. [Vector Autoregressive Models for Mutltivariate Time Series](https://www.notion.so/bobzeng/Vector-Autoregressive-Models-for-Multivariate-Time-Series-463538e0e3614facbe5d4823d189c26c)
 6. [modeltime:The time series forecasting package for the tidymodels ecosystem.](https://github.com/business-science/modeltime)
+7. [Facebook Prophet:Forecasting at Scale](https://www.notion.so/bobzeng/Forecasting-at-Scale-Facebook-Prophet-131dd6b2e8cd42e1bf3f05bb6af99630)
