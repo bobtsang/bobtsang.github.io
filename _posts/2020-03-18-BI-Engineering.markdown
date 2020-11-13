@@ -73,4 +73,4 @@ There are 6 types of methodologies to deal with SCD.
 12. [Airflow Concept](https://airflow.readthedocs.io/en/stable/concepts.html)
 13. [dbt:data build tool](https://docs.getdbt.com/docs/introduction)
 14. [What is ETLT](https://www.xplenty.com/blog/what-is-etlt/)
-15. Business intelligence guidebook: from data integration to analytics, Sherman and Rick, 2015
+15. Business intelligence guidebook: from data integration to analytics, Rick Sherman, 2015
