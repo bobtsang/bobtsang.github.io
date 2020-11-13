@@ -78,6 +78,25 @@ date:   2020-04-28 22:59:07 +0800
   - Balance
 - Non-additive facts
 
+### Basic Dimension Table Techniques
+
+> Every dimension table has a single primary key column
+
+#### Dealing with Slowly Changing Dimension (SCD) Attributes
+
+1. Type 0: Retain original; typical for data dimension
+2. Type 1: Overwrite
+3. Type 2: Add new row
+   A minimum of three additional columns should be added
+   a. row effective datetime
+   b. row expiration date
+   c. current row indicator
+4. Type 3: Add new attribute: 'alternative reality'
+5. Type 4: Add mini-dimension
+6. Type 5: Add mini-dimension and type 1 outrigger
+7. Type 6: Add Type 1 attributes to type 2 dimension
+8. Type 7: Dual type 1 and type 2 dimensions
+
 ### Reference
 
 1. [Designing Data-Intensive Application](https://www.notion.so/bobzeng/Read-Data-Intensive-System-498ff1dc017f4260b5530d10ea89b615)
@@ -94,3 +113,4 @@ Group-By, Cross-Tab, and Sub-Totals,1997](https://arxiv.org/pdf/cs/0701155.pdf)
 11. The Data Warehouse Toolkit: The Definitive Guide, Kimball
 12. [Implementating a Real-Time Data Warehouse with Flink](https://www.alibabacloud.com/blog/implementating-a-real-time-data-warehouse-with-flink_595681)
 13. [Enterprise Bus Matrix](https://www.wikiwand.com/en/Enterprise_bus_matrix)
+14. [Rapidly Changing Monster Dimension – Mini Dimension In Data Warehousing](https://bidatasolution.wordpress.com/2015/09/14/mini-dimension/)
