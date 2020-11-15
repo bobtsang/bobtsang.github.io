@@ -87,10 +87,10 @@ date:   2020-04-28 22:59:07 +0800
 1. Type 0: Retain original; typical for data dimension
 2. Type 1: Overwrite
 3. Type 2: Add new row
-   A minimum of three additional columns should be added
-   a. row effective datetime
-   b. row expiration date
-   c. current row indicator
+     A minimum of three additional columns should be added <br>
+      a. row effective datetime <br>
+      b. row expiration date <br>
+      c. current row indicator <br>
 4. Type 3: Add new attribute: 'alternative reality'
 5. Type 4: Add mini-dimension
 
