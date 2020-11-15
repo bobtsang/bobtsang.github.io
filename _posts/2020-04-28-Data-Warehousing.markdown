@@ -93,6 +93,12 @@ date:   2020-04-28 22:59:07 +0800
    c. current row indicator
 4. Type 3: Add new attribute: 'alternative reality'
 5. Type 4: Add mini-dimension
+
+> And Business Customers can ask for these type of Slicing Attributes more frequently, so this is obvious that we should not put these slicing attributes in Aggregate table, rather we should create another dimension with only slicing attributes and store foreign key into its Original Dimension and Aggregate Table. This will give more flexibility to Data Model we can cope up with frequent ask for different slicing Attributes in the report.
+
+> If we check cardinality of any column in table, whatever the columns with very low cardinality are present in that table, will be considered for Mini Dimension.
+
+
 6. Type 5: Add mini-dimension and type 1 outrigger
 7. Type 6: Add Type 1 attributes to type 2 dimension
 8. Type 7: Dual type 1 and type 2 dimensions
