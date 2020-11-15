@@ -98,7 +98,6 @@ date:   2020-04-28 22:59:07 +0800
 
 > If we check cardinality of any column in table, whatever the columns with very low cardinality are present in that table, will be considered for Mini Dimension.
 
-
 6. Type 5: Add mini-dimension and type 1 outrigger
 7. Type 6: Add Type 1 attributes to type 2 dimension
 8. Type 7: Dual type 1 and type 2 dimensions
