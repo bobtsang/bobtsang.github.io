@@ -42,6 +42,19 @@ Table names should be singular because
 - Should avoid if not necessary; typing more characteres if having it
 - Helpful when you need to group related tables together
 
+#### Terminology
+
+##### ACID
+
+- Atomicity
+  An operation either succeeds completely or fails, it does not leave partial data.
+- Consistency
+  Once an application performs an operation the results of that operation are visible to it in every subsequent operation
+- Isolation
+  An incomplete operation by one user does not cause unexpected side effects for other users
+- Durability
+  
+
 #### Reference
 
 [1]Database Internals,Alex Petrov, 2019 <br>
