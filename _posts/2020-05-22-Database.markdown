@@ -53,7 +53,7 @@ Table names should be singular because
 - Isolation
   An incomplete operation by one user does not cause unexpected side effects for other users
 - Durability
-  
+  Once an operation is complete it will be preserved even in the face of machine or system failure
 
 #### Reference
 
