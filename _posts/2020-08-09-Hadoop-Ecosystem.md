@@ -19,6 +19,11 @@ date:   2020-08-09 22:59:07 +0800
 
 > The NameNode maintains the namespace tree and the mapping of file blocks to DataNodes (the physical location of file data).
 
+## Apache Ambari
+
+The Apache Ambari project is aimed at making Hadoop management simpler by developing software for provisioning, managing, and monitoring Apache Hadoop clusters. 
+
+
 ## Reference
 
 [1] [Apache Hadoop Documentation](https://hadoop.apache.org/) <br>
