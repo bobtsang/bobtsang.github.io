@@ -231,3 +231,4 @@ Query Processing Over Heterogeneous Data Sources](https://15721.courses.cs.cmu.e
 20. [Apache Hive Optimization Techniques, Ankit Prakash Gupta](https://towardsdatascience.com/apache-hive-optimization-techniques-2-e60b6200eeca)
 21. [STREAM Table Hint](https://www.linkedin.com/pulse/20141002060036-90038370-hive-join-optimization-stream-table-in-joins/)
 22. [Hive Transactions](https://cwiki.apache.org/confluence/display/Hive/Hive+Transactions)
+23. [Hive ACID Merge example](https://community.cloudera.com/t5/Community-Articles/Hive-ACID-Merge-by-Example/ta-p/245402)
