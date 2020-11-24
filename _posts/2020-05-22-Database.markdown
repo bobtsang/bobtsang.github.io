@@ -58,4 +58,5 @@ Table names should be singular because
 #### Reference
 
 [1]Database Internals,Alex Petrov, 2019 <br>
-[2][Naming convention](http://en.dwhwiki.info/templates/process/naming_conventions), Data Warehouse Wiki
+[2][Naming convention](http://en.dwhwiki.info/templates/process/naming_conventions), Data Warehouse Wiki <br>
+[3] Transaction Processing Benchmark,[TPC BENCHMARK DS](http://tpc.org/tpc_documents_current_versions/pdf/tpc-ds_v2.13.0.pdf)
