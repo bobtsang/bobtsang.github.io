@@ -38,4 +38,5 @@ It's an integration of the following <sup>10</sup>
 [8] [Differentiable Causal Discovery Under Unmeasured Confounding](https://arxiv.org/pdf/2010.06978.pdf) <br>
 [9] [Introduction to Structural Equation Modelling](http://statmath.wu-wien.ac.at/courses/StatsWithR/Topic-5.pdf) <br>
 [10] [Video: What is structural equation modelling](https://www.youtube.com/watch?v=Flqbo8J3li4&ab_channel=Geek%27sLesson) <br>
-[11] [From how to why: An overview of causal inference in machine learning](https://www.notion.so/bobzeng/Overview-of-causal-inference-machine-learning-Ericsson-27f2619637b3411e9edd1155d7ba399b)
+[11] [From how to why: An overview of causal inference in machine learning](https://www.notion.so/bobzeng/Overview-of-causal-inference-machine-learning-Ericsson-27f2619637b3411e9edd1155d7ba399b) <br>
+[12] [CausalML:A Python Package for Uplift Modeling and Causal Inference with ML](https://github.com/uber/causalml)
