@@ -125,3 +125,5 @@ Group-By, Cross-Tab, and Sub-Totals,1997](https://arxiv.org/pdf/cs/0701155.pdf)
 12. [Implementating a Real-Time Data Warehouse with Flink](https://www.alibabacloud.com/blog/implementating-a-real-time-data-warehouse-with-flink_595681)
 13. [Enterprise Bus Matrix](https://www.wikiwand.com/en/Enterprise_bus_matrix)
 14. [Rapidly Changing Monster Dimension – Mini Dimension In Data Warehousing](https://bidatasolution.wordpress.com/2015/09/14/mini-dimension/)
+15. Star Schema The Complete Reference, Christopher Adamson, 2010
+16. Mastering Data Warehouse Aggregates:Solutions for Star Schema Performance, Christopher Adamson ,2006
