@@ -28,6 +28,12 @@ date:   2020-04-28 22:59:07 +0800
   > In many ways, the data warehouse is only as good as the dimension attributes
   - **Facts** are associated with numberical measures.
 
+### Data Warehouse Methodologies
+
+- Kimball
+- Inmon
+- Data Vault
+
 ### Data Warehouse Architecture
 
 - Backend tier
