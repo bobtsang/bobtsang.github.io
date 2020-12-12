@@ -91,10 +91,23 @@ date:   2020-04-28 22:59:07 +0800
 > Every dimension table has a single primary key column
 
 Dimension tables are usually wide, flat denormalised tables with many low-cardinality text attributes.
+
 #### Dimension Surrogate Keys
+
+Highlight points
 
 - Primary key cannot be the operational system's natural key.
 - Natural keys for a dimension may be created by more than one source system.
+
+
+#### Enterprise Data Warehouse Bus Architecture
+
+> Delivering integration via standardised conformed dimensions
+> Architectural framework which can help decomposing the program to managable agile implementations
+
+#### Enterprise Data Warehouse Bus Matrix
+
+> Rows are processes and columns are dimensions
 
 #### Dealing with Slowly Changing Dimension (SCD) Attributes
 
