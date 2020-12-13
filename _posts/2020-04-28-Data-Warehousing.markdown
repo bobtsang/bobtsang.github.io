@@ -129,6 +129,11 @@ Highlight points
 7. Type 6: Add Type 1 attributes to type 2 dimension
 8. Type 7: Dual type 1 and type 2 dimensions
 
+### Semantics
+
+- *By*: is almost always followed by a dimension.
+- *For*: is equal to a filter. 
+
 ### Reference
 
 1. [Designing Data-Intensive Application](https://www.notion.so/bobzeng/Read-Data-Intensive-System-498ff1dc017f4260b5530d10ea89b615)
