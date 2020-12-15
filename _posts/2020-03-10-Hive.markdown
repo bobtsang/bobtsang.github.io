@@ -64,6 +64,8 @@ On top of `Apache Hadoop`, Hive is doing the following
 - Partitions
 - Buckets: Data in each partition may in turn be divided into Buckets; Each bucket is stored as a file in the partition directory.
 
+Partitions and buckets can help boosting performance. 
+
 #### Type System
 
 ##### Primitive Types
@@ -232,3 +234,4 @@ Query Processing Over Heterogeneous Data Sources](https://15721.courses.cs.cmu.e
 21. [STREAM Table Hint](https://www.linkedin.com/pulse/20141002060036-90038370-hive-join-optimization-stream-table-in-joins/)
 22. [Hive Transactions](https://cwiki.apache.org/confluence/display/Hive/Hive+Transactions)
 23. [Hive ACID Merge example](https://community.cloudera.com/t5/Community-Articles/Hive-ACID-Merge-by-Example/ta-p/245402)
+24. [MapJoin and Partition Pruning](https://cwiki.apache.org/confluence/display/Hive/MapJoin+and+Partition+Pruning)
