@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Causality in General"
-date:   2020-03-08 19:46:07 +0800
+date:   2020-12-27 19:46:07 +0800
 ---
 When A and B are dependent, there are three possibilities of their relationship
 
