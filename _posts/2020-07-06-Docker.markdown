@@ -32,6 +32,7 @@ date:   2020-07-06 23:51:07 +0800
 > Docker has two options for containers to store files in the host machine, so that the files are persisted even after the container stops: volumes and bind mounts
 
 - `Volumes` are stored in a part of the host filesystem which is managed by Docker
+- `Bind mounts` can be stored anywhere on the host system. But non-docker processes can modified them any time
 
 ### Reference
 
