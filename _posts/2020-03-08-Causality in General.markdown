@@ -16,6 +16,10 @@ What is [causal graph](https://www.wikiwand.com/en/Causal_graph)?
 
 #### Terminology
 
+##### Structure Learning
+
+##### Causal Discovery
+
 ##### SEM: Structural Equation Modelling
 
 It's an integration of the following <sup>10</sup>
