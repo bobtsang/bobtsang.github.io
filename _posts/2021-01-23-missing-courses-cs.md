@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Missing courses in CS"
-date:   2020-01-23 19:46:07 +0800
+date:   2021-01-23 19:46:07 +0800
 ---
 ## Shell
 
