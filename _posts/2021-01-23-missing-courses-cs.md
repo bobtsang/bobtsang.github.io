@@ -9,10 +9,14 @@ Shell is a programming environment. It parses the command by splitting it by whi
 
 - `~` short for home
 - `$` tells you that you're not the root user 
-- functions: `echo`,`date`, helper function `man`
+- functions: `echo`,`date`, `cat`,  helper function `man`
 - `\` as escaping character of space
 - `/` is called absoute path
 - `.` refers to he current, and `..` to its parent directory
+- `>` append to file
+- `|` chain program together such that the output of one is the input of another
+
+## Shell Scripting
 
 
 ## Reference
