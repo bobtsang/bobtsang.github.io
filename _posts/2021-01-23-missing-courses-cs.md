@@ -21,4 +21,5 @@ Shell is a programming environment. It parses the command by splitting it by whi
 
 ## Reference
 
-[1] [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) 
+[1] [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+[2] [Advanced Bash-scripting Guide](https://tldp.org/LDP/abs/html/special-chars.html)
