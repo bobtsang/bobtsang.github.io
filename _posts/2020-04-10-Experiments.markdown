@@ -10,7 +10,7 @@ Necessary Ingrediants for running user controlled experiments
 
 1. There are experimental units that can be assigned to different variants with no interference.
 2. There are enough experimental units.
-3. Key metrics, ideally an OEC, are agreed upon and can be practically evaluated.
+3. Key metrics, ideally an [OEC](https://learning.oreilly.com/library/view/understanding-experimentation-platforms/9781492038139/ch03.html), are agreed upon and can be practically evaluated.
 4. Changes are easy to make.
 
 #### Reference
@@ -19,4 +19,5 @@ Necessary Ingrediants for running user controlled experiments
 [2] [Awesome User Testing](https://github.com/augbog/awesome-user-testing) <br>
 [3] [Beyesian Machine Learning in Python: A/B Testing](https://www.udemy.com/course/bayesian-machine-learning-in-python-ab-testing/) <br>
 [4] Statistics for Experimenters: Design, Innovation, and Discovery, 2nd Edition <br>
-[5] Bandit Algorithms, Tor Lattimore, Csaba Szepesvári,2020
+[5] Bandit Algorithms, Tor Lattimore, Csaba Szepesvári,2020 <br>
+[6] Understanding Experimentation Platform, Adil Aijaz, 2018
