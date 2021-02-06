@@ -30,3 +30,4 @@ It specifies what is good in the long run.
 6. [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 7. [Deep Reinforcemenet Learning and Control](https://katefvision.github.io/), Spring 2017, CMU 10703
 8. [Deep Reinforcement Learning, CS 285 at UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)
+9. Reinforcement Learning: An Introduction, Richard S. Sutto, Andrew G Barto, 2018
