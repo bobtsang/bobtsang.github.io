@@ -17,9 +17,16 @@ date:   2020-03-18 22:00:00 +0800
 - `sbt`
 
 ```bash
-sbt about
-sbt
+>sbt about
+>sbt
 ```
+
+Start Scala interpreter
+```bash
+>sbt
+>console
+```
+to get back to `sbt`, type `ctrl-d`
 
 ## Reference
 
