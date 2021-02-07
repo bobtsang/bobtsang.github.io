@@ -4,10 +4,15 @@ title:  "Computer Science and Software Engineering"
 date:   2021-02-06 19:46:07 +0800
 ---
 
+## Software Engineering Fundamentals
+
 - CI/CD
 - Unit Test
 - Performance profiling
-- Encoding
+
+### Encoding
+
+#### Codec
 
 
 ## Reference
