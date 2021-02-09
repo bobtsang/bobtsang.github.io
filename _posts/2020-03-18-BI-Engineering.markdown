@@ -4,9 +4,9 @@ title:  "Business Intelligence Engineering"
 date:   2020-03-18 22:00:00 +0800
 ---
 
-# Major topics for Business Intelligence
+## Major topics for Business Intelligence
 
-## Single source of truth
+### Single source of truth
 
 - Engineering: data is updated accurately on time
 
@@ -15,10 +15,10 @@ date:   2020-03-18 22:00:00 +0800
 
 - Documentation
 
-## Analytics
+### Analytics
 
 
-## Data Warehouse
+### Data Warehouse
 
 Aka, enterprise data warehouse (EDW)， current and historical data in one single place, which will provide single source of truth.
 
@@ -33,7 +33,7 @@ Operational data store is used for operational reporting and as a source for the
 
 ![tree is not for this.use things properly]({{site.baseurl}}/resources/different-layers-in-data-warehouse-architecture.png)
 
-## ETL
+### ETL
 
 - Staging: Intermediate storage area to increase the efficiency of ETL process
 - Data integration
@@ -41,11 +41,11 @@ Operational data store is used for operational reporting and as a source for the
 
 > centralized repository of information about data such as meaning, relationships to other data, origin, usage, and format
 
-# Business Intelligence Concepts
+## Business Intelligence Concepts
 
-## CDC: Change Data Capture
+### CDC: Change Data Capture
 
-## SCD: Slowly Changing Dimension
+### SCD: Slowly Changing Dimension
 
 There are 6 types of methodologies to deal with SCD.
 
@@ -57,7 +57,7 @@ There are 6 types of methodologies to deal with SCD.
 5. type 4 + type 1
 6. combined type
 
-# Reference
+## Reference
 
 1. [Data Engineering Cookbook](https://github.com/andkret/Cookbook)
 2. [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
