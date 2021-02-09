@@ -26,7 +26,7 @@ Start Scala interpreter
 >sbt
 >console
 ```
-to get back to `sbt`, type `ctrl-d`
+to get back to `sbt`, type `ctrl-d` or `exit`
 
 ## Reference
 
