@@ -20,4 +20,5 @@ Necessary Ingrediants for running user controlled experiments
 [3] [Beyesian Machine Learning in Python: A/B Testing](https://www.udemy.com/course/bayesian-machine-learning-in-python-ab-testing/) <br>
 [4] Statistics for Experimenters: Design, Innovation, and Discovery, 2nd Edition <br>
 [5] Bandit Algorithms, Tor Lattimore, Csaba Szepesvári,2020 <br>
-[6] Understanding Experimentation Platform, Adil Aijaz, 2018
+[6] Understanding Experimentation Platform, Adil Aijaz, 2018 <br>
+[7] [It's all about testing: the Netflix Experiment Platform](https://netflixtechblog.com/its-all-a-bout-testing-the-netflix-experimentation-platform-4e1ca458c15) <br>
