@@ -22,3 +22,4 @@ Necessary Ingrediants for running user controlled experiments
 [5] Bandit Algorithms, Tor Lattimore, Csaba Szepesvári,2020 <br>
 [6] Understanding Experimentation Platform, Adil Aijaz, 2018 <br>
 [7] [It's all about testing: the Netflix Experiment Platform](https://netflixtechblog.com/its-all-a-bout-testing-the-netflix-experimentation-platform-4e1ca458c15) <br>
+[8] [Design of Experiments, Coursera Specialisation](https://www.coursera.org/learn/introduction-experimental-design-basics/lecture/8IrTw/history-of-dox)
