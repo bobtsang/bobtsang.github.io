@@ -4,10 +4,34 @@ title:  "Data and Knowledge Discovery"
 date:   2021-02-13 22:00:00 +0800
 ---
 
+## Introduction
+
+Why `metadata hub` <sup>5</sup>
+> .. what they're really referring to is the ability for a random data analyst to keep up with the rest of a very large data-producing and data-consuming orgranisation
+
+## Components
+
+- Search interface
+- UI which is explorable
+- An API service that communicates with internal data services
+- Ability to update metadata by human
+
+## Tools
+
+- [`Dataporl`](https://www.slideshare.net/neo4j/graphconnect-europe-2017-democratizing-data-at-airbnb) by Airbnb
+    - key stack: `neo4j`
+- [`Metacat`](https://netflixtechblog.com/metacat-making-big-data-discoverable-and-meaningful-at-netflix-56fb36a53520) by Netflix
+- `DataHub` by Linkedin
+- `Databook` by Uber
+- `Amundsen` by Lyft
+
+- `Lexikon` by Spotify
+- `Data Catalog` by GCP
 
 ## Reference
 
 1. [Admunsen: meta data driven application](https://github.com/amundsen-io/amundsen)
 2. [Knowledge Repo](https://github.com/airbnb/knowledge-repo)
 3. [DataHub: A Generalized Metadata Search & Discovery Tool](https://github.com/linkedin/datahub)
-4. [Edge#62: Data Discovery and Management Architectures at LinkedIn, Uber, Lyft, Airbnb and Netflix, TheSequence, 2021](https://www.notion.so/bobzeng/Edge-62-Data-Discovery-and-Management-Architectures-at-LinkedIn-Uber-Lyft-Airbnb-and-Netflix-T-5ec2c366ebaa418da9ad6e8efc9e3597)
+4. Edge#62: Data Discovery and Management Architectures at LinkedIn, Uber, Lyft, Airbnb and Netflix, TheSequence, 2021
+5. [A Dive Into Metadata Hubs, Cedric Chin, 2020](https://www.holistics.io/blog/a-dive-into-metadata-hubs/)
