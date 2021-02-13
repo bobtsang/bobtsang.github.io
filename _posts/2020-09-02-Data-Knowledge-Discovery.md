@@ -21,6 +21,8 @@ Why `metadata hub` <sup>5</sup>
 - [`Dataporl`](https://www.slideshare.net/neo4j/graphconnect-europe-2017-democratizing-data-at-airbnb) by Airbnb
     - key stack: `neo4j`
 - [`Metacat`](https://netflixtechblog.com/metacat-making-big-data-discoverable-and-meaningful-at-netflix-56fb36a53520) by Netflix
+![alt text](https://miro.medium.com/max/700/1*Nz8bc62eRDxegVkzJr_HrQ.png "Metacat")
+
 - `DataHub` by Linkedin
 - `Databook` by Uber
 - `Amundsen` by Lyft
