@@ -9,4 +9,4 @@ I find that if I don't have time to review all summaise a topic I encounter, my 
 
 I want to also share with others about these pieces. Hope that it would be helpful for the technical community.
 
-![tree is not for this.use things properly]({{site.baseurl}}/resources/IMG_0231.JPEG)
+![tree is not for this.use things properly]({{site.baseurl}}/resources/technical_depth_width.png)
