@@ -132,7 +132,16 @@ Highlight points
 ### Semantics
 
 - *By*: is almost always followed by a dimension.
-- *For*: is equal to a filter. 
+- *For*: is equal to a filter.
+
+### Layers
+
+Layers to process data <sup>17</sup>
+
+- ODS: Operational Data Store
+- DWD: Data Warehouse Detail
+- DWS: Data Warehouse Summary
+- ADS: Application Data Store
 
 ## Reference
 
