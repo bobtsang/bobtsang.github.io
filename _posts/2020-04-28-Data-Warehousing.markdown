@@ -3,7 +3,7 @@ layout: post
 title:  "Data Warehousing"
 date:   2020-04-28 22:59:07 +0800
 ---
-### Goals of Data Warehousing and BI
+## Goals of Data Warehousing and BI
 
 > Business users want to separate and combine analytic data in endless combinations
 
@@ -19,7 +19,7 @@ date:   2020-04-28 22:59:07 +0800
 - Must present information in a timely way
 - Foundation for improved decision making
 
-### Data Warehouse Concepts
+## Data Warehouse Concepts
 
 - Multi-dimensional data cube
 ![tree is not for this.use things properly]({{site.baseurl}}/resources/data-cube.png)
@@ -28,13 +28,13 @@ date:   2020-04-28 22:59:07 +0800
   > In many ways, the data warehouse is only as good as the dimension attributes
   - **Facts** are associated with numberical measures.
 
-### Data Warehouse Methodologies
+## Data Warehouse Methodologies
 
 - Kimball
 - Inmon
 - Data Vault
 
-### Data Warehouse Architecture
+## Data Warehouse Architecture
 
 - Backend tier
   - ETL process
@@ -134,7 +134,7 @@ Highlight points
 - *By*: is almost always followed by a dimension.
 - *For*: is equal to a filter. 
 
-### Reference
+## Reference
 
 1. [Designing Data-Intensive Application](https://www.notion.so/bobzeng/Read-Data-Intensive-System-498ff1dc017f4260b5530d10ea89b615)
 2. [Apache Kylin](http://kylin.apache.org/docs/gettingstarted/concepts.html)
@@ -153,3 +153,4 @@ Group-By, Cross-Tab, and Sub-Totals,1997](https://arxiv.org/pdf/cs/0701155.pdf)
 14. [Rapidly Changing Monster Dimension – Mini Dimension In Data Warehousing](https://bidatasolution.wordpress.com/2015/09/14/mini-dimension/)
 15. Star Schema The Complete Reference, Christopher Adamson, 2010
 16. Mastering Data Warehouse Aggregates:Solutions for Star Schema Performance, Christopher Adamson ,2006
+17. 大数据之路，阿里巴巴，2017
