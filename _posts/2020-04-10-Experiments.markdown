@@ -40,6 +40,19 @@ Necessary Ingrediants for running user controlled experiments
 3. Key metrics, ideally an [OEC](https://learning.oreilly.com/library/view/understanding-experimentation-platforms/9781492038139/ch03.html), are agreed upon and can be practically evaluated.
 4. Changes are easy to make.
 
+## The Hypothesis Testing Framework
+
+- Sampling from a normal distribution
+- Statistical hypothesis
+
+### Estimation of Parameters
+
+- For example: mean, variance
+
+### Terminologies
+
+- critical value (statistics)
+- `reference distribution`
 ## Reference
 
 [1] Trustworthy Online Controlled Experiments, 2020  <br>
