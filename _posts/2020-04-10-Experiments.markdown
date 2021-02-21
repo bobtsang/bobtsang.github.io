@@ -54,7 +54,7 @@ Necessary Ingrediants for running user controlled experiments
 - critical value (statistics)
 - `reference distribution`
 - P-value approach
-- Pooled t-test, Two-Sample t-Test<sup>10</sup>
+- Pooled t-test (or Equal Variance t-test), Two-Sample t-Test<sup>10</sup>
     - t<sub>0</sub> serves as signal-to-noise ratio
     - Checking assumptions: normal probability plotting
 
