@@ -143,6 +143,10 @@ Layers to process data <sup>17</sup>
 - DWS: Data Warehouse Summary
 - ADS: Application Data Store
 
+## Sync Pattern
+
+- Batch
+
 ## Reference
 
 1. [Designing Data-Intensive Application](https://www.notion.so/bobzeng/Read-Data-Intensive-System-498ff1dc017f4260b5530d10ea89b615)
