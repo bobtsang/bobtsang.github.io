@@ -53,6 +53,11 @@ Necessary Ingrediants for running user controlled experiments
 
 - critical value (statistics)
 - `reference distribution`
+- P-value approach
+- Pooled t-test, Two-Sample t-Test
+    - t<sub>0</sub> serves as signal-to-noise ratio
+    - Checking assumptions: normal probability plotting
+
 ## Reference
 
 [1] Trustworthy Online Controlled Experiments, 2020  <br>
