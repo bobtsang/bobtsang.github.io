@@ -146,6 +146,8 @@ Layers to process data <sup>17</sup>
 ## Sync Pattern
 
 - Batch
+  -  `full outer join` + `insert overwrite` instead of `upsert`
+  ![tree is not for this.use things properly]({{site.baseurl}}/resources/taobao_dw_batch.png)
 
 ## Reference
 
