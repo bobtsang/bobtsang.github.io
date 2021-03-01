@@ -119,6 +119,8 @@ Considerations
 
 aka. variance components model, in this type of model, mean is usually not tested but the variance.
 
+Note that `normality assumption` is not needed and it's possible that the estimate of variance can be negative, which is against the nature of variance
+
 ## Reference
 
 [1] Trustworthy Online Controlled Experiments, 2020  <br>
