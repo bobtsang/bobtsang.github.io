@@ -65,6 +65,17 @@ Necessary Ingrediants for running user controlled experiments
 > In some simple comparative experiments, we can greatly improve the precision by making comparison within matched pairs of experimental material
  - Paired t-test
 
+
+### Analysis of Variance (ANOVA)
+
+> The name 'analysis of variance' stems from a partitioning of the total variability in the response variable into components that are consistent with a model for the experiment.
+
+Why `ANOVA`
+
+- single factor for more than 2 levels
+- more than single factor
+
+`Total variability` = SS<sub>Treatments</sub> + SS<sub>E</sub>
 ## Reference
 
 [1] Trustworthy Online Controlled Experiments, 2020  <br>
