@@ -63,7 +63,8 @@ Necessary Ingrediants for running user controlled experiments
 
 > In some simple comparative experiments, we can greatly improve the precision by making comparison within matched pairs of experimental material
 
- - Paired t-test
+- Paired t-test
+- Power = 1 - $\beta$, in which $\beta$ is the probability of type 2 error (failing to reject default hypothesis)
 
 
 ### Analysis of Variance (ANOVA)
@@ -80,6 +81,38 @@ Why `ANOVA`
 
 Reference distribution is `F` distribution.
 We will reject the default H<sub>0</sub> if F<sub>0</sub> > F<sub>a,a-1,a(n-1)</sub>
+
+#### Assumptions
+
+- Normality
+- Constant variance
+- Independence
+
+
+#### Model adequacy checking for ANOVA
+
+- Normal probaiblity plot of residuals
+- Residual against order or time: should be randomly scattered
+- Residual against predicted values/ fitted values: should be randomly scattered
+
+
+#### Post-ANOVA comparison of means
+
+Which specific means are the particular mean to be different? It's the `multiple comparisons problem`.
+
+- Design-expert output
+- Graphical comparison of means
+  - sliding the normal distribution curve to see whether the group means would fall into the shape
+- The regression model
+
+### Sample Size Determination
+
+Considerations
+
+- What type of experiments
+- How it will be conducted
+- Desired sensitivity
+- Desired `power`
 
 ## Reference
 
