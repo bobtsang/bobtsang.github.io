@@ -60,9 +60,9 @@ Necessary Ingrediants for running user controlled experiments
 - Pooled t-test (or Equal Variance t-test), Two-Sample t-Test<sup>10</sup>
     - t<sub>0</sub> serves as signal-to-noise ratio
     - Checking assumptions: normal probability plotting
-- Paired experiments
 
 > In some simple comparative experiments, we can greatly improve the precision by making comparison within matched pairs of experimental material
+
  - Paired t-test
 
 
