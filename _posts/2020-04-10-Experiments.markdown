@@ -25,6 +25,7 @@ date:   2021-01-31 22:00:00 +0800
 > In a factorial experiment, all possible combinations of factor levels are tested
 
 - Fractional Factorial Design
+
 ### Goals of experiments
 
 - Reduce time to desgin and develop new products and process
@@ -113,6 +114,10 @@ Considerations
 - How it will be conducted
 - Desired sensitivity
 - Desired `power`
+
+### The Random Effects Model
+
+aka. variance components model, in this type of model, mean is usually not tested but the variance.
 
 ## Reference
 
