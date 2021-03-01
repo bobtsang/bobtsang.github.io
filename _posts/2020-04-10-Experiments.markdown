@@ -78,6 +78,9 @@ Why `ANOVA`
 `Total variability` = SS<sub>Treatments</sub> + SS<sub>E</sub>
 ![tree is not for this.use things properly]({{site.baseurl}}/resources/single_factor_anova.png)
 
+Reference distribution is `F` distribution.
+We will reject the default H<sub>0</sub> if F<sub>0</sub> > F<sub>a,a-1,a(n-1)</sub>
+
 ## Reference
 
 [1] Trustworthy Online Controlled Experiments, 2020  <br>
