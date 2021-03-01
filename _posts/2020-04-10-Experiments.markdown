@@ -76,6 +76,8 @@ Why `ANOVA`
 - more than single factor
 
 `Total variability` = SS<sub>Treatments</sub> + SS<sub>E</sub>
+![tree is not for this.use things properly]({{site.baseurl}}/resources/single_factor_anova.png)
+
 ## Reference
 
 [1] Trustworthy Online Controlled Experiments, 2020  <br>
