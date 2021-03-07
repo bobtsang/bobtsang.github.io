@@ -121,6 +121,19 @@ aka. variance components model, in this type of model, mean is usually not teste
 
 Note that `normality assumption` is not needed and it's possible that the estimate of variance can be negative, which is against the nature of variance
 
+### The Blocking Principle
+
+- Blocking and nuisance factors
+  - `nuisance factor` may have effect on the response, but it's of no interest to the experimenter
+    - If the `nuisance factor` is known and controllable, we can use `analysis of covariance` to remove the effect
+    - If the `nuisance factor` is unknown and uncontrollable ("lurking" variable), we hope that randomization balances out its impact across the experiments
+  - In general, a `block` is a specific level of nuisance factor, and it represents a `restriction on randomization`. All runs within a block are `randomized`
+
+- RCBD: the randomised complete block design
+  - Statistical model for RCBD: an extension of ANOVA
+  - SS<sub>T</sub> = SS<sub>Treatments</sub> + SS<sub>Blocks</sub> + SS<sub>E</sub>
+
+
 ## Reference
 
 [1] Trustworthy Online Controlled Experiments, 2020  <br>
