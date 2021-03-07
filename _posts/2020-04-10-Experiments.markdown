@@ -130,8 +130,12 @@ Note that `normality assumption` is not needed and it's possible that the estima
   - In general, a `block` is a specific level of nuisance factor, and it represents a `restriction on randomization`. All runs within a block are `randomized`
 
 - RCBD: the randomised complete block design
+  - Assumptions
+    - Additive model, which means no interactions
   - Statistical model for RCBD: an extension of ANOVA
   - SS<sub>T</sub> = SS<sub>Treatments</sub> + SS<sub>Blocks</sub> + SS<sub>E</sub>
+  - If we do not do RCBD, then the variance of error term will be inflated
+  - Random Blocks and/or Treatments
 
 
 ## Reference
