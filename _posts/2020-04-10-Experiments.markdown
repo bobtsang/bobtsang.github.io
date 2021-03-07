@@ -136,6 +136,9 @@ Note that `normality assumption` is not needed and it's possible that the estima
   - SS<sub>T</sub> = SS<sub>Treatments</sub> + SS<sub>Blocks</sub> + SS<sub>E</sub>
   - If we do not do RCBD, then the variance of error term will be inflated
   - Random Blocks and/or Treatments
+  - The Latin Square Design
+    - simultaneously control two sources of nuiance variability
+    - Assumption: three factors (treatments, nuisance factors) do not interact
 
 
 ## Reference
