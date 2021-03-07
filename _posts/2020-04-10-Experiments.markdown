@@ -152,4 +152,5 @@ Note that `normality assumption` is not needed and it's possible that the estima
 [7] [It's all about testing: the Netflix Experiment Platform](https://netflixtechblog.com/its-all-a-bout-testing-the-netflix-experimentation-platform-4e1ca458c15) <br>
 [8] [Design of Experiments, Coursera Specialisation](https://www.coursera.org/learn/introduction-experimental-design-basics/lecture/8IrTw/history-of-dox) <br>
 [9] [How Ronald A. Fisher’s work feeds into statistical engineering, Lynne B. Hare, 2019](https://www.notion.so/bobzeng/Statistics-Spotlight-The-Foundation-of-Statistical-Engineering-5958806bcaf64ca680e1aab90f8b2ccb) <br>
-[10] [The two-sample t Test,JMP tech doc](https://www.jmp.com/en_hk/statistics-knowledge-portal/t-test/two-sample-t-test.html)
+[10] [The two-sample t Test,JMP tech doc](https://www.jmp.com/en_hk/statistics-knowledge-portal/t-test/two-sample-t-test.html) <br>
+[11] [Wiki:AB Testing](https://www.wikiwand.com/en/A/B_testing) <br>
