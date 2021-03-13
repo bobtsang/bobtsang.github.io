@@ -7,6 +7,11 @@ date:   2021-02-06 19:46:07 +0800
 
 ### Operating System
 
+#### Nomenclature
+
+- Program: a set of instructions
+- Process: na instance of `program` that is being executed
+
 ## Software Engineering Fundamentals
 
 - CI/CD
