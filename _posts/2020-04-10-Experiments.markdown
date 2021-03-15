@@ -3,7 +3,7 @@ layout: post
 title:  "Experimentation"
 date:   2021-01-31 22:00:00 +0800
 ---
-## Introduction
+### Introduction
 
 > An experiment is a test or a series of tests.
 
@@ -16,9 +16,21 @@ date:   2021-01-31 22:00:00 +0800
 - Randomization
     - Running the trials in an experiment in random order
 - Replication
+    - Independent `repeat run` of each factor combination
     - Sample size
-
 - Blocking
+
+### Guideliness
+
+1. Recognition of and statemetn of problem
+2. Selection of the response variable
+3. Choice of factors, levels and range
+   a. Design factors vs. nuisance factors
+
+4. Choice of experimental design
+5. Performing the experiment
+6. Statistical analysis of data
+7. Conclusions and recommendations
 
 ### Factorial Design
 
