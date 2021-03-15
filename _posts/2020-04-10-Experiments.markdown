@@ -166,4 +166,5 @@ Note that `normality assumption` is not needed and it's possible that the estima
 [9] [How Ronald A. Fisher’s work feeds into statistical engineering, Lynne B. Hare, 2019](https://www.notion.so/bobzeng/Statistics-Spotlight-The-Foundation-of-Statistical-Engineering-5958806bcaf64ca680e1aab90f8b2ccb) <br>
 [10] [The two-sample t Test,JMP tech doc](https://www.jmp.com/en_hk/statistics-knowledge-portal/t-test/two-sample-t-test.html) <br>
 [11] [Wiki:AB Testing](https://www.wikiwand.com/en/A/B_testing) <br>
-[12] Design and Analysis of Experiments, Douglas C. Montgomery, 2017
+[12] Design and Analysis of Experiments, Douglas C. Montgomery, 2017 <br>
+[13] [What's the difference between a randomized block design and two factor design, Cross Validated, StackExchange](https://stats.stackexchange.com/questions/236573/whats-the-difference-between-a-randomized-block-design-and-two-factor-design/312736#:~:text=With%20the%20randomized%2Dblock%20design,levels%20of%20the%20blocking%20variable.&text=In%20a%20two%2Dway%20factorial,cells%20of%20the%20factorial%20design.)
