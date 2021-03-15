@@ -154,3 +154,4 @@ Note that `normality assumption` is not needed and it's possible that the estima
 [9] [How Ronald A. Fisher’s work feeds into statistical engineering, Lynne B. Hare, 2019](https://www.notion.so/bobzeng/Statistics-Spotlight-The-Foundation-of-Statistical-Engineering-5958806bcaf64ca680e1aab90f8b2ccb) <br>
 [10] [The two-sample t Test,JMP tech doc](https://www.jmp.com/en_hk/statistics-knowledge-portal/t-test/two-sample-t-test.html) <br>
 [11] [Wiki:AB Testing](https://www.wikiwand.com/en/A/B_testing) <br>
+[12] Design and Analysis of Experiments, Douglas C. Montgomery, 2017
