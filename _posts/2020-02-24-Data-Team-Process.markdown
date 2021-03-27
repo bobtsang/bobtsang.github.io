@@ -15,6 +15,7 @@ General observations and notes for data project process, or how data team works 
 
 ### Data Driven Culture
 
+> Data only represents what can be quantified.
 
 ### Reference
 
