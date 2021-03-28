@@ -21,3 +21,5 @@ My teammates and I have been thinking doing some kind of feature store which wil
 
 1. [Feature store for machine learning](https://docs.featurestore.org/)
 2. [Rethinking Feature Store](https://medium.com/@changshe/rethinking-feature-stores-74963c2596f0)
+3. [Tecton, introduced by Uber Michelangelo team](https://www.tecton.ai/feature-store/)
+4. Edge#72: Tecton – The Enterprise Feature Store Built by the Creators of Uber's ML Platform
