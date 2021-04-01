@@ -14,6 +14,12 @@ date:   2021-02-18 22:00:00 +0800
     - The acronym is significantly shorter than the full term.
     - The acronym appears many times in the document.
 
+- Avoid using `Pronoun`
+
+## Active Voice
+
+> Active Voice Sentence = actor + verb + target
+
 
 
 ## Reference
