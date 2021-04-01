@@ -20,6 +20,10 @@ date:   2021-02-18 22:00:00 +0800
 
 > Active Voice Sentence = actor + verb + target
 
+- Most readers mentally convert passive voice to active voice
+- Passive voice obfuscates your ideas, turning sentences on their head
+- Some passive voice sentences omit an actor altogether
+- Active voice is generally shorter than passive voice
 
 
 ## Reference
