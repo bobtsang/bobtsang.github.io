@@ -24,6 +24,34 @@ date:   2021-01-31 22:00:00 +0800
 
 ![tree is not for this.use things properly]({{site.baseurl}}/resources/design_of_experiment.png)
 
+`RSE`: random sampling experiment <br>
+`FRSE`: factorial random sampline experiment <br>
+`NSE`: nested sampling experiment <br>
+`SNSE`: staggered nested sampling experiment <br>
+`CRD`: completely randomized design <br>
+`CRFD`: completely randomized factorial design <br>
+`CRFF`: completely randomized fractional factorial <br>
+`PB`: Plackett-Burman design <br>
+`OA`: orthogonal array design <br>
+`CRSP`: completely randomized split plot <br>
+`RSSP`: response surface split plot <br>
+`EESPRS` — equivalent estimation split-plot response surface SLD — simplex lattice design <br>
+`SCD` — simplex centroid design <br>
+`EVD` — extreme vertices design <br>
+`SPMPV` : split-plot mixture process variable design <br>
+`RCB` : randomized complete block <br>
+`GCB` : generalized complete block <br>
+`RCBF` : randomized complete block factorial <br>
+`RBSP` : randomized block split plot <br>
+`PBIB` : partially balanced incomplete block <br>
+`BTIB` : balanced treatment incomplete block <br>
+`BIB` : balance incomplete block <br>
+`BRS` : blocked response surface <br>
+`PCBF` : partially confounded blocked factorial <br>
+`CCBF` : completely confounded blocked factorial <br>
+`LSD` : Latin-square design <br>
+`RCD` : row-column design <br>
+
 
 1. Recognition of and statemetn of problem
 2. Selection of the response variable
