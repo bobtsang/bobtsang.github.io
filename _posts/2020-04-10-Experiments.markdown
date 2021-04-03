@@ -22,6 +22,9 @@ date:   2021-01-31 22:00:00 +0800
 
 ### Guideliness
 
+![tree is not for this.use things properly]({{site.baseurl}}/resources/design_of_experiment.png)
+
+
 1. Recognition of and statemetn of problem
 2. Selection of the response variable
 3. Choice of factors, levels and range
