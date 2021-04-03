@@ -150,13 +150,7 @@ Note that `normality assumption` is not needed and it's possible that the estima
   - Random Blocks and/or Treatments
   - The Latin Square Design
     - simultaneously control two sources of nuiance variability
-    - Assumption: three factors (treatments, nuisance factors) do not interact
-
-## Factorial Design
-
-> Experimental design to study the effects of 2 or more factors
-### General principless
-
+    - Assumption: three factors (treatments, nuisance factors) do not interaction
 
 ## Reference
 
