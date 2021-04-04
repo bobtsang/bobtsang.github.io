@@ -17,6 +17,10 @@ It's usually more structured.
 
 The list can get really long and hence can be messy.
 
+## Principle of design
+
+The foundamental problem in most integration projects is creating relationships between entities stored in different applications.
+
 ## Reference
 
 [1] Mastering API Architecture, James Gough, Daniel Bryant, and Matthew Auburn, 2021  <br>
