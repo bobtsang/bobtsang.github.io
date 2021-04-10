@@ -61,7 +61,7 @@ There are 6 types of methodologies to deal with SCD.
 
 1. [Data Engineering Cookbook](https://github.com/andkret/Cookbook)
 2. [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
-3. [Awesome BI Engineering](https://github.com/thenaturalist/awesome-business-intelligence)
+3. [Awesome Business Intelligence](https://github.com/thenaturalist/awesome-business-intelligence)
 4. [Data Warehouse](https://www.wikiwand.com/en/Data_warehouse)
 5. [Designing Data Intensive Application](https://dataintensive.net/)
 6. [OLAP](https://www.wikiwand.com/en/Online_analytical_processing)
