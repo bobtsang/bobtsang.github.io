@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Business Intelligence Engineering"
+title:  "Business Intelligence"
 date:   2020-03-18 22:00:00 +0800
 ---
 
