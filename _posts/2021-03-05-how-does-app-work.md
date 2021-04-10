@@ -26,4 +26,5 @@ The foundamental problem in most integration projects is creating relationships 
 [1] Mastering API Architecture, James Gough, Daniel Bryant, and Matthew Auburn, 2021  <br>
 [2] [Designing Quality APIs](https://www.youtube.com/watch?v=P0a7PwRNLVU&ab_channel=GoogleCloudTech) <br>
 [3] [How to Build a REST API with Python](https://www.notion.so/bobzeng/How-to-Build-a-REST-API-with-Python-Towards-Data-Science-ef541924a02744078cef1d372a35a071) <br>
-[4] [Postman: The Collaboration Platform for API Development](https://www.postman.com/)
+[4] [Postman: The Collaboration Platform for API Development](https://www.postman.com/) <br>
+[5] [Oauth 2.0: industry standard of authorization](https://oauth.net/2/) <br>
