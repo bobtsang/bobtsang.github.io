@@ -10,6 +10,10 @@ The study of the group of human and human in a group, which includes following d
 - economics
 - human geography
 - linguistics
+  - syntax 
+  - semantics
+  - morphology
+  - 
 - political science
 - psychology
 - history
