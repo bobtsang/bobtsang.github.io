@@ -13,7 +13,10 @@ The study of the group of human and human in a group, which includes following d
   - syntax 
   - semantics
   - morphology
-  - 
+  - phonetics
+  - phonology
+  - evolutionary linguistics
 - political science
 - psychology
 - history
+- sociology
