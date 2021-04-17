@@ -26,6 +26,23 @@ date:   2021-02-18 22:00:00 +0800
 - Active voice is generally shorter than passive voice
 
 
+## Guideline for different types of documentation
+
+### Handover documentation
+
+A handover documentation is needed for reducing the risk of an employee leaving the company with knowledge and experience.
+
+For long-term hand-over, there shouild always be both a face-to-face conversation and a written document.
+
+List of items should be included into this document
+
+- dailys tasks and processes
+- access to all documents
+- project deadlines and status updates
+- key contacts
+- ongoing issues and risks for project
+- details of all logins and passwords
+
 ## Reference
 
 1. [Technical Writing Courses, Google](https://developers.google.com/tech-writing)
