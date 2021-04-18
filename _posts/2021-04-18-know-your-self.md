@@ -31,6 +31,15 @@ Theme 2: Theory-Driven Constructions of the past
 
 Theme 3: Is accurate recall good or bad?
 
+### Knowledge of Current Self
+
+#### Criterion
+
+- Implicit measures
+- Peer reports
+- People's behaviour
+- Predict behaviour
+
 ## Reference
 
 1. [To Know Thyself, Turn to Science](https://www.psychologicalscience.org/observer/to-know-thyself-turn-to-science)
