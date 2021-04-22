@@ -59,3 +59,4 @@ Stephen Few (laymen) vs. Edward Tufte (more sophisticated)
 5. Resonate, Nancy Duarte, 2010
 6. Show Me the Numbers, Stephen Few
 7. The Visual Display of Quantitative Information, Edward Tufte
+8. [notebookJS: seamless JavaScript integration in Python Notebooks](https://github.com/jorgehpo/notebookJS)

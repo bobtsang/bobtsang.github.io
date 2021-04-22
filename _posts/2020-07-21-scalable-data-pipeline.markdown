@@ -34,3 +34,4 @@ date:   2020-07-21 22:00:00 +0800
 [3] [Lambda architecture](https://www.wikiwand.com/en/Lambda_architecture) <br>
 [4] [Change Data Capture](https://www.wikiwand.com/en/Change_data_capture#:~:text=In%20databases%2C%20change%20data%20capture,taken%20using%20the%20changed%20data.) <br>
 [5] [Awesome Scalibility](https://github.com/binhnguyennus/awesome-scalability) <br>
+[6] [Data science at scale](https://github.com/coiled/data-science-at-scale)
