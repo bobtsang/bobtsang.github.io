@@ -45,4 +45,5 @@ It's an integration of the following <sup>10</sup>
 [11] [From how to why: An overview of causal inference in machine learning](https://www.notion.so/bobzeng/Overview-of-causal-inference-machine-learning-Ericsson-27f2619637b3411e9edd1155d7ba399b) <br>
 [12] [CausalML:A Python Package for Uplift Modeling and Causal Inference with ML](https://github.com/uber/causalml)
 [13] Causality:Statistical Perspectives and Applications, Carlo Berzuini, Philip Dawid, Luisa Bernardinell, 2012 <br>
-[14] Elements of Causal Inference, Jonas Peters, Dominik Janzing, and Bernhard Scho ̈lkopf, 2017
+[14] Elements of Causal Inference, Jonas Peters, Dominik Janzing, and Bernhard Scho ̈lkopf, 2017 <br>
+[15] [Paper notes by Vitaly Kurin](https://www.notion.so/bobzeng/Paper-Notes-by-Vitaly-Kurin-4a844b30f73b4247ab74b0436a01b8ce) <br>
