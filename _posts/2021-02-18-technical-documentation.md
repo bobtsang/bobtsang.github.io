@@ -48,3 +48,4 @@ List of items should be included into this document
 1. [Technical Writing Courses, Google](https://developers.google.com/tech-writing)
 2. [The art of writing hadnover notes](http://digitalist.ekcragg.co.uk/2013/12/10/the-art-of-writing-handover-notes/)
 3. [The importance of handovers for exiting employees](https://www.go1.com/blog/post-importance-handovers-exiting-employees)
+4. [The Art of Writing Efficient Code Comments](https://towardsdatascience.com/the-art-of-writing-efficient-code-comments-692213ed71b1), Elena Kosourova, 2021
