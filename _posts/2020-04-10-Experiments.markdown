@@ -198,4 +198,5 @@ Note that `normality assumption` is not needed and it's possible that the estima
 [11] [Wiki:AB Testing](https://www.wikiwand.com/en/A/B_testing) <br>
 [12] Design and Analysis of Experiments, Douglas C. Montgomery, 2017 <br>
 [13] [What's the difference between a randomized block design and two factor design, Cross Validated, StackExchange](https://stats.stackexchange.com/questions/236573/whats-the-difference-between-a-randomized-block-design-and-two-factor-design/312736#:~:text=With%20the%20randomized%2Dblock%20design,levels%20of%20the%20blocking%20variable.&text=In%20a%20two%2Dway%20factorial,cells%20of%20the%20factorial%20design.) <br>
-[14] Design and Analysis of Experiments with R, John Lawson
+[14] Design and Analysis of Experiments with R, John Lawson <br>
+[15] [Impact Analysis, Wikipedia](https://www.wikiwand.com/en/Impact_evaluation)
