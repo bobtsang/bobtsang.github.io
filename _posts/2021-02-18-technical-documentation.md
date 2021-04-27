@@ -50,3 +50,4 @@ List of items should be included into this document
 3. [The importance of handovers for exiting employees](https://www.go1.com/blog/post-importance-handovers-exiting-employees)
 4. [The Art of Writing Efficient Code Comments](https://towardsdatascience.com/the-art-of-writing-efficient-code-comments-692213ed71b1), Elena Kosourova, 2021
 5. [The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
+6. [All Time Best for Data Science Writing](https://www.notion.so/bobzeng/All-time-best-guide-for-data-science-writing-d98f9ce2154945c8931b12cfd5282034)
