@@ -89,3 +89,4 @@ Mainly two schools of thoughts
 2. [Causality: Statistical Perspectives and Applications](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119945710), Carlo Berzuini etc., 2012
 3.Inference and Causality in Economic Time Series Models, John Geweke
 3. [Granger Causality (Prediction)](https://www.youtube.com/watch?v=XqsSB_vpHLs), 2019
+4. [On Causality in Time Series](https://www.notion.so/bobzeng/On-Causality-Inference-in-Time-Series-0633c85d361f417c876401917a556dbd), Mohammad Taha Bahadori and Yan Liu
