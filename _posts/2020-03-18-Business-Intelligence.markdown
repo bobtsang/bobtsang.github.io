@@ -74,3 +74,4 @@ There are 6 types of methodologies to deal with SCD.
 13. [dbt:data build tool](https://docs.getdbt.com/docs/introduction)
 14. [What is ETLT](https://www.xplenty.com/blog/what-is-etlt/)
 15. Business intelligence guidebook: from data integration to analytics, Rick Sherman, 2015
+16. [How We Build an HTAP Database That Simplifies Your Data Platform, Shawn Ma](https://pingcap.com/blog/how-we-build-an-htap-database-that-simplifies-your-data-platform)
