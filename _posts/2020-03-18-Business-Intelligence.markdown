@@ -57,6 +57,8 @@ There are 6 types of methodologies to deal with SCD.
 5. type 4 + type 1
 6. combined type
 
+### OLAP vs.OLTP vs. HTAP
+
 ## Reference
 
 1. [Data Engineering Cookbook](https://github.com/andkret/Cookbook)
@@ -75,3 +77,4 @@ There are 6 types of methodologies to deal with SCD.
 14. [What is ETLT](https://www.xplenty.com/blog/what-is-etlt/)
 15. Business intelligence guidebook: from data integration to analytics, Rick Sherman, 2015
 16. [How We Build an HTAP Database That Simplifies Your Data Platform, Shawn Ma](https://pingcap.com/blog/how-we-build-an-htap-database-that-simplifies-your-data-platform)
+17. [TiDB:A distributed SQL Database](https://github.com/pingcap/tidb)
