@@ -52,3 +52,4 @@ Principle of when should we have what meeting
 [3] The Datawarehouse Toolkit: The Definitive Guide <br>
 [4] [Career Ladder: A sample of career ladder I use for my organization, open sourced for anyone](https://career-ladders.dev/) <br>
 [5] [On Pair Programming](https://martinfowler.com/articles/on-pair-programming.html)<br>
+[6] [How We Onboard New Engineers at Zapier, Brian Cooksey](https://zapier.com/engineering/engineer-onboarding/)
