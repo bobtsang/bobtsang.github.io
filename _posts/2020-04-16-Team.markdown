@@ -50,4 +50,5 @@ Principle of when should we have what meeting
 [1] [Manager Playbook](https://github.com/ksindi/managers-playbook) <br>
 [2] [Writing technical documentation](https://developers.google.com/tech-writing) <br>
 [3] The Datawarehouse Toolkit: The Definitive Guide <br>
-[4] [Career Ladder: A sample of career ladder I use for my organization, open sourced for anyone](https://career-ladders.dev/)
+[4] [Career Ladder: A sample of career ladder I use for my organization, open sourced for anyone](https://career-ladders.dev/) <br>
+[5] [Pair Programming](https://www.wikiwand.com/en/Pair_programming)
