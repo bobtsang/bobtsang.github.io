@@ -59,6 +59,8 @@ There are 6 types of methodologies to deal with SCD.
 
 ### OLAP vs.OLTP vs. HTAP
 
+Traditionally speaking, `OLTP` is more like a row-based storage engine, supporting high concurrency and strong consistency. Each request modifies no more than few rows of data.
+
 ## Reference
 
 1. [Data Engineering Cookbook](https://github.com/andkret/Cookbook)
