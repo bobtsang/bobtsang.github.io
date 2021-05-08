@@ -3,15 +3,29 @@ layout: post
 title:  "Learn Data Engineering"
 date:   2020-03-18 22:00:00 +0800
 ---
-## Batch Data Processing
+# Data Storage
 
+## Data warehouse
+Here is the [separate page](https://bobtsang.github.io/2020/04/28/Data-Warehousing.html) for this topic.
+
+## Data Lake
+
+## Data Lakehouse <sup>4</sup>
+  - Metadata layers for data lakes
+  - New query engine designs providing high-performance SQL execution on data lakes
+  - Optimised access for data science and machine learning tools
+
+
+## Batch Data Processing
 
 ## Streaming Data Processing
 
 ### Layering of Streaming Data
 
 - ODS: raw data from production DB
+
 ### Case Study for Streaming Data
+
 #### Business Intelligence
 
 When calculating deduplicated metrics, e.g. distinct count, the following techniques should be considered <sup>2</sup>
@@ -19,8 +33,6 @@ When calculating deduplicated metrics, e.g. distinct count, the following techni
 1. Bloom Filter
    - The requirement for precision is not that high
 2. Modelling based on historical data
-
-
 
 ## Reference
 
