@@ -27,3 +27,4 @@ When calculating deduplicated metrics, e.g. distinct count, the following techni
 1. Streaming Architecture, 2016, Ted Dunning and Ellen Friedman
 2. 大数据之路：阿里巴巴大数据实践，2017
 3. Designing Data Intensive Application, 2017, Martin Kleppmann
+4. [Data Lakehouse: Simplicity, Flexibility and Low Cost](https://databricks.com/glossary/data-lakehouse#:~:text=A%20data%20lakehouse%20is%20a,(ML)%20on%20all%20data.)
