@@ -169,3 +169,4 @@ Group-By, Cross-Tab, and Sub-Totals,1997](https://arxiv.org/pdf/cs/0701155.pdf)
 15. Star Schema The Complete Reference, Christopher Adamson, 2010
 16. Mastering Data Warehouse Aggregates:Solutions for Star Schema Performance, Christopher Adamson ,2006
 17. 大数据之路，阿里巴巴，2017
+18. [What, exactly, is dbt?](https://blog.getdbt.com/what--exactly--is-dbt-/), 2017
