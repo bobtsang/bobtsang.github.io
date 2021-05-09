@@ -56,8 +56,10 @@ date:   2020-04-28 22:59:07 +0800
       - how is it structured or organised
       - ETL process: data lineage, cleaning rules
       - ELT process
-        - `dbt`
+        - `dbt` <sup>18</sup>
         > dbt's only function is to take code, compile it to SQL, and then run against your database
+        - `model`: a data transformation, expressed in a single `SELECT` statement
+        - dbt code is a combination of SQL and `Jinja`
 
 - OLAP tier
   - XMLA: XML for analysis
