@@ -55,6 +55,9 @@ date:   2020-04-28 22:59:07 +0800
     - Technical metadata
       - how is it structured or organised
       - ETL process: data lineage, cleaning rules
+      - ELT process
+        - `dbt`
+        > dbt's only function is to take code, compile it to SQL, and then run against your database
 
 - OLAP tier
   - XMLA: XML for analysis
