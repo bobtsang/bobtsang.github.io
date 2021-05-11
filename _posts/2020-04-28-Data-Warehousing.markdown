@@ -61,6 +61,8 @@ date:   2020-04-28 22:59:07 +0800
         - `model`: a data transformation, expressed in a single `SELECT` statement
         - dbt code is a combination of SQL and `Jinja`
 
+        > Because dbt is interpolating the locations of all of the models it generates, it allows users to easily create dev and prod environments and seamlessly transition between the two. 
+
 - OLAP tier
   - XMLA: XML for analysis
   - MDX: MultiDimensional eXpressions
