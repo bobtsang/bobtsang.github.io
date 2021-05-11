@@ -32,3 +32,4 @@ date:   2021-02-06 19:46:07 +0800
 [5] [Instruction Set Architecture](https://www.wikiwand.com/en/Instruction_set_architecture#:~:text=In%20computer%20science%2C%20an%20instruction,)%2C%20is%20called%20an%20implementation.) <br>
 [6] [Application Binary Interface](https://www.wikiwand.com/en/Application_binary_interface#:~:text=In%20computer%20software%2C%20an%20application,being%20run%20by%20a%20user.)<br>
 [7] [How does pull request work? An example of Bitbucket](https://www.notion.so/bobzeng/Pull-Requests-Atlassian-Git-Tutorial-62ec1e477b5f43a9888c4ca5792aa18e)
+[8] [CI/CD: A Gentle Introduction,Marko Anastasov, 2019](https://semaphoreci.com/blog/cicd-pipeline#:~:text=A%20CI%2FCD%20pipeline%20automates,and%20enable%20fast%20product%20iterations.)
