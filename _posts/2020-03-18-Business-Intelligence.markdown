@@ -81,3 +81,4 @@ And `OLAP` is likely to be a columnar databases, in which we can process batch h
 15. Business intelligence guidebook: from data integration to analytics, Rick Sherman, 2015
 16. [How We Build an HTAP Database That Simplifies Your Data Platform, Shawn Ma](https://pingcap.com/blog/how-we-build-an-htap-database-that-simplifies-your-data-platform)
 17. [TiDB:A distributed SQL Database](https://github.com/pingcap/tidb)
+18. [Building a mature analytics workflow, Tristan Handy, 2016](https://blog.fishtownanalytics.com/building-a-mature-analytics-workflow/)
