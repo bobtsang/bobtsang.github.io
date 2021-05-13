@@ -4,6 +4,11 @@ title:  "Business Intelligence"
 date:   2020-03-18 22:00:00 +0800
 ---
 
+## Business Intelligence Overview
+
+It has been a hot topic as data sceince being a growing discipline <sup>18</sup>.
+
+
 ## Major topics for Business Intelligence
 
 ### Single source of truth
@@ -81,3 +86,4 @@ And `OLAP` is likely to be a columnar databases, in which we can process batch h
 15. Business intelligence guidebook: from data integration to analytics, Rick Sherman, 2015
 16. [How We Build an HTAP Database That Simplifies Your Data Platform, Shawn Ma](https://pingcap.com/blog/how-we-build-an-htap-database-that-simplifies-your-data-platform)
 17. [TiDB:A distributed SQL Database](https://github.com/pingcap/tidb)
+18. [Business Intelligence vs. Data Science, 2021, Matt Przybyla](https://www.notion.so/bobzeng/Data-Science-vs-Business-Intelligence-Differences-Towards-Data-Science-2019647dee41400b8bd2948025f6e7d9)
