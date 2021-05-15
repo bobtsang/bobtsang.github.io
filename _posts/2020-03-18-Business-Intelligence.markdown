@@ -87,3 +87,4 @@ And `OLAP` is likely to be a columnar databases, in which we can process batch h
 16. [How We Build an HTAP Database That Simplifies Your Data Platform, Shawn Ma](https://pingcap.com/blog/how-we-build-an-htap-database-that-simplifies-your-data-platform)
 17. [TiDB:A distributed SQL Database](https://github.com/pingcap/tidb)
 18. [Business Intelligence vs. Data Science, 2021, Matt Przybyla](https://www.notion.so/bobzeng/Data-Science-vs-Business-Intelligence-Differences-Towards-Data-Science-2019647dee41400b8bd2948025f6e7d9)
+19. [Crow's Foot Notation](https://www.vertabelo.com/blog/crow-s-foot-notation/)
