@@ -45,6 +45,8 @@ Principle of when should we have what meeting
 
 ### How to write technical documentation
 
+### How to develop teammates into techical gurus?
+
 ## Reference
 
 [1] [Manager Playbook](https://github.com/ksindi/managers-playbook) <br>
