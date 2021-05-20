@@ -67,6 +67,12 @@ There are 6 types of methodologies to deal with SCD.
 Traditionally speaking, `OLTP` is more likely to be a row-based storage engine, supporting high concurrency and strong consistency. Each request modifies no more than few rows of data.
 And `OLAP` is likely to be a columnar databases, in which we can process batch historical information.
 
+
+## Business Intelligence Platform
+
+### Tableau
+### Looker
+
 ## Reference
 
 1. [Data Engineering Cookbook](https://github.com/andkret/Cookbook)
@@ -88,3 +94,4 @@ And `OLAP` is likely to be a columnar databases, in which we can process batch h
 17. [TiDB:A distributed SQL Database](https://github.com/pingcap/tidb)
 18. [Business Intelligence vs. Data Science, 2021, Matt Przybyla](https://www.notion.so/bobzeng/Data-Science-vs-Business-Intelligence-Differences-Towards-Data-Science-2019647dee41400b8bd2948025f6e7d9)
 19. [Crow's Foot Notation](https://www.vertabelo.com/blog/crow-s-foot-notation/)
+20. [My Looker Notes](https://www.notion.so/bobzeng/Looker-a9e8c954e60043f293df1dd7cf186858)
