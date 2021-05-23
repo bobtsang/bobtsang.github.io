@@ -23,6 +23,12 @@ date:   2021-02-06 19:46:07 +0800
 
 ### Data Modelling
 
+The process of designing a database involves producing the previously described three types of schemas 
+
+- conceptual
+- logical
+- physical
+
 ### Encoding
 
 #### Codec
