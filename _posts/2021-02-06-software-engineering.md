@@ -14,9 +14,14 @@ date:   2021-02-06 19:46:07 +0800
 
 ## Software Engineering Fundamentals
 
-- CI/CD
-- Unit Test
-- Performance profiling
+
+### CI/CD
+
+### Unit Test
+
+### Performance profiling
+
+### Data Modelling
 
 ### Encoding
 
