@@ -10,3 +10,4 @@ I think there is not much difference when we talk about `analytics` and `data an
 
 1. [Building a mature analytics workflow, Tristan Handy, 2016](https://blog.fishtownanalytics.com/building-a-mature-analytics-workflow/)
 2. [It's time for open source analytics, Tristan Handy, 2016](https://blog.getdbt.com/it-s-time-for-open-source-analytics/)
+3. [Automatic Data Analytics](https://bobtsang.github.io/2021/05/03/automatic-data-analytics.html)
