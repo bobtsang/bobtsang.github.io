@@ -4,6 +4,20 @@ title:  "Technical Documentation"
 date:   2021-02-18 22:00:00 +0800
 ---
 
+## Why do we write documentation?
+
+- If people don't know why your project exists, they won't use it.
+- If people can't figure out how to use your code, they won't use it.
+
+## What to write
+
+- What problem your project solves
+- A small code example
+- A link to your code & issue tracker
+- FAQ: needs to keep it up to date
+- How to get support?
+- Information for people who want to contribute back
+
 ## Words
 
 - Use same unambiguous word or term consistently throughout document
@@ -51,3 +65,5 @@ List of items should be included into this document
 4. [The Art of Writing Efficient Code Comments](https://towardsdatascience.com/the-art-of-writing-efficient-code-comments-692213ed71b1), Elena Kosourova, 2021
 5. [The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
 6. [All Time Best for Data Science Writing](https://www.notion.so/bobzeng/All-time-best-guide-for-data-science-writing-d98f9ce2154945c8931b12cfd5282034)
+7. [A beginner's guide to writing documentation](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
+8. [Readme Driven Development](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
