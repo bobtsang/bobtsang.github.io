@@ -28,3 +28,4 @@ The foundamental problem in most integration projects is creating relationships 
 [3] [How to Build a REST API with Python](https://www.notion.so/bobzeng/How-to-Build-a-REST-API-with-Python-Towards-Data-Science-ef541924a02744078cef1d372a35a071) <br>
 [4] [Postman: The Collaboration Platform for API Development](https://www.postman.com/) <br>
 [5] [Oauth 2.0: industry standard of authorization](https://oauth.net/2/) <br>
+[6] [Awesome API Design](https://github.com/marmelab/awesome-rest)
