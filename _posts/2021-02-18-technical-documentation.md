@@ -67,3 +67,4 @@ List of items should be included into this document
 6. [All Time Best for Data Science Writing](https://www.notion.so/bobzeng/All-time-best-guide-for-data-science-writing-d98f9ce2154945c8931b12cfd5282034)
 7. [A beginner's guide to writing documentation](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
 8. [Readme Driven Development](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+9. [Data Flow Diagram Comprehensive Guide with Examples](https://warren2lynch.medium.com/data-flow-diagram-comprehensive-guide-with-examples-d9858387f25e)
