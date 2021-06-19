@@ -70,8 +70,21 @@ And `OLAP` is likely to be a columnar databases, in which we can process batch h
 
 ## Business Intelligence Platform
 
+In this section, I would like to compare the BI platforms I have used. In general, BI platform should be considered as the components in serving layer in Lambda or Kappa architecture.
+
 ### Tableau
+
+#### Data Source
+
+#### Governance
+
 ### Looker
+
+#### LookML
+
+#### Explore
+
+#### Online Support
 
 ## Reference
 
