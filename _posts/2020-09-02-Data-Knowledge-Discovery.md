@@ -30,6 +30,13 @@ Why `metadata hub` <sup>5</sup>
 - `Lexikon` by Spotify
 - `Data Catalog` by GCP
 
+
+## Topics 
+
+### Data Lineage
+
+> By parsing through the SQL code from query logs in Snowflake, it’s possible to automatically create column-level lineage, assign a popularity score to every data asset, and even deduce the potential owners and experts for each asset.
+
 ## Reference
 
 1. [Admunsen: meta data driven application](https://github.com/amundsen-io/amundsen)
@@ -37,3 +44,4 @@ Why `metadata hub` <sup>5</sup>
 3. [DataHub: A Generalized Metadata Search & Discovery Tool](https://github.com/linkedin/datahub)
 4. Edge#62: Data Discovery and Management Architectures at LinkedIn, Uber, Lyft, Airbnb and Netflix, TheSequence, 2021
 5. [A Dive Into Metadata Hubs, Cedric Chin, 2020](https://www.holistics.io/blog/a-dive-into-metadata-hubs/)
+6. [Data Catalog 3.0: Modern Meta Data for Modern Data Stack](https://towardsdatascience.com/data-catalog-3-0-modern-metadata-for-the-modern-data-stack-ec621f593dcf)
