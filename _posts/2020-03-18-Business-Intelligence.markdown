@@ -108,3 +108,4 @@ In this section, I would like to compare the BI platforms I have used. In genera
 18. [Business Intelligence vs. Data Science, 2021, Matt Przybyla](https://www.notion.so/bobzeng/Data-Science-vs-Business-Intelligence-Differences-Towards-Data-Science-2019647dee41400b8bd2948025f6e7d9)
 19. [Crow's Foot Notation](https://www.vertabelo.com/blog/crow-s-foot-notation/)
 20. [My Looker Notes](https://www.notion.so/bobzeng/Looker-a9e8c954e60043f293df1dd7cf186858)
+21. [Looker: Looker vs. Tableau](https://looker.com/compare/looker-vs-tableau)
