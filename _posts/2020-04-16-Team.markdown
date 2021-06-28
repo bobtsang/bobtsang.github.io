@@ -68,3 +68,4 @@ Principle of when should we have what meeting
 [7] [How to write the perfect pull request](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/)
 [8] [Why a pull request is not called a push request?, Stackoverflow](https://stackoverflow.com/questions/21657430/why-is-a-git-pull-request-not-called-a-push-request)<br>
 [9] [git rebase fundamentals](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase#:~:text=From%20a%20content%20perspective%2C%20rebasing,them%20to%20the%20specified%20base.)<br>
+[10] [Git for Computer Scientist](https://eagain.net/articles/git-for-computer-scientists/)
