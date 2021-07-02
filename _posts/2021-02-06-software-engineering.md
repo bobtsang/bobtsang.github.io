@@ -45,4 +45,5 @@ The process of designing a database involves producing the previously described 
 [7] [How does pull request work? An example of Bitbucket](https://www.notion.so/bobzeng/Pull-Requests-Atlassian-Git-Tutorial-62ec1e477b5f43a9888c4ca5792aa18e)<br>
 [8] [CI/CD: A Gentle Introduction,Marko Anastasov, 2019](https://semaphoreci.com/blog/cicd-pipeline#:~:text=A%20CI%2FCD%20pipeline%20automates,and%20enable%20fast%20product%20iterations.)<br>
 [9] [git novice repo](https://swcarpentry.github.io/git-novice/)<br>
-[10] [What's serivce mesh](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh)
+[10] [What's serivce mesh](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh) <br>
+[11]Computer Systems: A Programmer's Perspective, Randal E. Bryant
