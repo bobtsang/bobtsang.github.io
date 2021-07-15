@@ -76,7 +76,7 @@ In this section, I would like to compare the BI platforms I have used. In genera
 
 #### Data Source
 
-#### Governance
+#### Data Catalog and Governance
 
 ### Looker
 
