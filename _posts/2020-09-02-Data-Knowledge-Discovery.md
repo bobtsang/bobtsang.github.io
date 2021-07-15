@@ -45,3 +45,4 @@ Why `metadata hub` <sup>5</sup>
 4. Edge#62: Data Discovery and Management Architectures at LinkedIn, Uber, Lyft, Airbnb and Netflix, TheSequence, 2021
 5. [A Dive Into Metadata Hubs, Cedric Chin, 2020](https://www.holistics.io/blog/a-dive-into-metadata-hubs/)
 6. [Data Catalog 3.0: Modern Meta Data for Modern Data Stack](https://towardsdatascience.com/data-catalog-3-0-modern-metadata-for-the-modern-data-stack-ec621f593dcf)
+7. [DataHub: Popular metadata architectures explained](https://engineering.linkedin.com/blog/2020/datahub-popular-metadata-architectures-explained)
