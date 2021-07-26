@@ -72,4 +72,5 @@ Principle of when should we have what meeting
 [8] [Why a pull request is not called a push request?, Stackoverflow](https://stackoverflow.com/questions/21657430/why-is-a-git-pull-request-not-called-a-push-request)<br>
 [9] [git rebase fundamentals](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase#:~:text=From%20a%20content%20perspective%2C%20rebasing,them%20to%20the%20specified%20base.)<br>
 [10] [Git for Computer Scientist](https://eagain.net/articles/git-for-computer-scientists/)<br>
-[11] [Open Vim: an Interactive vim tutorial](https://www.openvim.com/)
+[11] [Open Vim: an Interactive vim tutorial](https://www.openvim.com/) <br>
+[12] [Situational leadership theory: A test of three versions](https://www.sciencedirect.com/science/article/pii/S1048984309001507)
