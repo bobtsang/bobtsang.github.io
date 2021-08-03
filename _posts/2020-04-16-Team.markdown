@@ -75,3 +75,5 @@ Principle of when should we have what meeting
 [11] [Open Vim: an Interactive vim tutorial](https://www.openvim.com/) <br>
 [12] [Situational leadership theory: A test of three versions](https://www.sciencedirect.com/science/article/pii/S1048984309001507) <br>
 [13] [Hersey and Blanchard Situational Leadership Model: Adapting the Leadership Style to the Follower](https://www.business-to-you.com/hersey-blanchard-situational-leadership-model/) <br>
+[14] [Learn Vim For the Last Time: A Tutorial and Primer
+](https://danielmiessler.com/study/vim/) <br>
