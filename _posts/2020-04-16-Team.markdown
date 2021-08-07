@@ -3,6 +3,33 @@ layout: post
 title:  "Team"
 date:   2020-04-16 22:00:00 +0800
 ---
+
+## Teammates Life Cycle
+
+### Hiring
+
+### Onboarding
+
+Onboarding material:
+
+- Team mission:How is your team moving the needle for the customer?
+- Team members:Include: name, role/title, email, slack username, github username
+- Repositories and services:How to communicate within the team
+- Slack channels: Keeping yourself informed
+- Communication protocols during and outside of business hours
+- Documentation
+- Code contributing guidelines
+- PR review process
+- Ticketing process
+- Glossary of terms
+- Releasing code
+- How tos (e.g. migrate database, add secrets)
+- Getting started:Installation instructions (e.g. Docker, postgres).
+- A checklist of all accesses expected (e.g. AWS, PagerDuty)
+- Running your apps locally
+- Deploying your first bug fix
+- Meetings. Who should your new team member meet with?
+
 ## Setting Goal
 
 A good goal should consist of the following.
@@ -38,27 +65,6 @@ Principle of when should we have what meeting
   - Update the DW/BI system on a regular basis.
   - Maintain the business users' trust.
   - Keep the business users, executive sponsors, and IT management happy.
-
-### Scope
-
-## Knowledge Base
-
-### How to write technical documentation
-
-### How to develop teammates into techical gurus?
-
-## Git
-
-### Push changes to master
-
-1. Merge directly
-   It's a `three-way` merge and a merge commit.
-
-2. Rebase and merge
-   It's fast-forward merge.
-
-
-## Vim
 
 ## Reference
 
