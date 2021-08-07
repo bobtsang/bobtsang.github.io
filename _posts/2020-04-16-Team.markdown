@@ -77,3 +77,4 @@ Principle of when should we have what meeting
 [13] [Hersey and Blanchard Situational Leadership Model: Adapting the Leadership Style to the Follower](https://www.business-to-you.com/hersey-blanchard-situational-leadership-model/) <br>
 [14] [Learn Vim For the Last Time: A Tutorial and Primer
 ](https://danielmiessler.com/study/vim/) <br>
+[15] [Black: The Uncompromissing Code Formatter](https://github.com/psf/black) <br>
