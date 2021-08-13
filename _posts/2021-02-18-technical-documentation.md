@@ -68,3 +68,4 @@ List of items should be included into this document
 7. [A beginner's guide to writing documentation](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
 8. [Readme Driven Development](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 9. [Data Flow Diagram Comprehensive Guide with Examples](https://warren2lynch.medium.com/data-flow-diagram-comprehensive-guide-with-examples-d9858387f25e)
+10. [Writing a TL;DR](https://medium.com/facebook-research/writing-a-memorable-tl-dr-ea751cba88f2)
