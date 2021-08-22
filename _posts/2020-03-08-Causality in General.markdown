@@ -47,4 +47,5 @@ It's an integration of the following <sup>10</sup>
 [13] Causality:Statistical Perspectives and Applications, Carlo Berzuini, Philip Dawid, Luisa Bernardinell, 2012 <br>
 [14] Elements of Causal Inference, Jonas Peters, Dominik Janzing, and Bernhard Scho ̈lkopf, 2017 <br>
 [15] [Paper notes by Vitaly Kurin](https://www.notion.so/bobzeng/Paper-Notes-by-Vitaly-Kurin-4a844b30f73b4247ab74b0436a01b8ce) <br>
-[16] [Discussion:'The Scientific Model of Causality', Michael E. Sobel](https://www.notion.so/bobzeng/DISCUSSION-THE-SCIENTIFIC-MODEL-OF-CAUSALITY-3e9cf563a8ff4beba3b00800a36ba312)
+[16] [Discussion:'The Scientific Model of Causality', Michael E. Sobel](https://www.notion.so/bobzeng/DISCUSSION-THE-SCIENTIFIC-MODEL-OF-CAUSALITY-3e9cf563a8ff4beba3b00800a36ba312)<br>
+[17] [Causal Inference: Mixed Tape](https://mixtape.scunning.com/index.html)<br>
