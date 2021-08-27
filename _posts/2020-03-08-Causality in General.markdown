@@ -49,3 +49,4 @@ It's an integration of the following <sup>10</sup>
 [15] [Paper notes by Vitaly Kurin](https://www.notion.so/bobzeng/Paper-Notes-by-Vitaly-Kurin-4a844b30f73b4247ab74b0436a01b8ce) <br>
 [16] [Discussion:'The Scientific Model of Causality', Michael E. Sobel](https://www.notion.so/bobzeng/DISCUSSION-THE-SCIENTIFIC-MODEL-OF-CAUSALITY-3e9cf563a8ff4beba3b00800a36ba312)<br>
 [17] [Causal Inference: Mixed Tape](https://mixtape.scunning.com/index.html)<br>
+[18] [Introduction to Causal Inference: from Machine Learning Perspective](https://www.notion.so/bobzeng/Introduction-to-Causal-Inference-from-Machine-Learning-Perspective-3e7ad2192a144882b33221173c6fe4fb)<br>
