@@ -24,6 +24,10 @@ false
 >> a.include?(9)
 true
 ```
+- String
+
+> The essential difference between using `single` or `double` quotes is that `double quotes` **allow** for escape sequences while single quotes do not.
+
 
 ## Classes
 
