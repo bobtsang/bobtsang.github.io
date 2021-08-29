@@ -11,6 +11,24 @@ date:   2021-08-05 22:00:00 +0800
 \curl -sSL https://get.rvm.io | bash -s stable
 ```
 
+## Data Types
+
+- Range
+
+```{bash}
+>> a = 1...9
+>> a.include?(9)
+false
+
+>> a = 1..9
+>> a.include?(9)
+true
+```
+
+## Classes
+
+![tree is not for this.use things properly]({{site.baseurl}}/resources/ruby-what-is-a-class.png)
+
 ## Reference
 
 1. [Ruby Documentation](https://www.ruby-lang.org/en/documentation/)
