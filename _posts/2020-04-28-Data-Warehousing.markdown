@@ -188,4 +188,5 @@ Group-By, Cross-Tab, and Sub-Totals,1997](https://arxiv.org/pdf/cs/0701155.pdf)
 17. 大数据之路，阿里巴巴，2017
 18. [What, exactly, is dbt?](https://blog.getdbt.com/what--exactly--is-dbt-/), 2017
 19. [How to Move from Monolith to Data Mesh](https://www.notion.so/bobzeng/How-to-Move-Beyond-a-Monolithic-Data-Lake-to-a-Distributed-Data-Mesh-ab169a39a8874a46bc526bd6fe2b5a67)
-20. [dbt-utils:macro for dbt projects](https://github.com/dbt-labs/dbt-utils) 
+20. [dbt-utils:macro for dbt projects](https://github.com/dbt-labs/dbt-utils)
+21. [Snowflake Documentation](https://docs.snowflake.com/en/index.html) 
