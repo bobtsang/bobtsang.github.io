@@ -40,3 +40,4 @@ true
 3. [Ruby Learning Resources](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#ruby)
 4. [Learn Ruby First](https://essenceofchaos.gitbooks.io/learn-ruby-first/content/)
 5. [rubymonk:Learn Ruby Interactively](https://rubymonk.com/)
+6. [Ruby on Rails: a web-application framework](https://rubyonrails.org/)
