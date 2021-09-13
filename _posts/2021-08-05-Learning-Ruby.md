@@ -4,14 +4,16 @@ title:  "Learning Ruby"
 date:   2021-08-05 22:00:00 +0800
 ---
 
-## Install Ruby
+## Ruby Fundamentals
+
+### Install Ruby
 `Ruby` is pre-installed in Mac and it's better to install or manage different version with `RVM`
 
 ```{bash}
 \curl -sSL https://get.rvm.io | bash -s stable
 ```
 
-## Data Types
+### Data Types
 
 - Range
 
@@ -29,9 +31,14 @@ true
 > The essential difference between using `single` or `double` quotes is that `double quotes` **allow** for escape sequences while single quotes do not.
 
 
-## Classes
+### Classes
 
 ![tree is not for this.use things properly]({{site.baseurl}}/resources/ruby-what-is-a-class.png)
+
+
+## Ruby on Rails
+
+### MVC: Model View Controller
 
 ## Reference
 
