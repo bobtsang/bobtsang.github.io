@@ -57,6 +57,7 @@ date:   2020-04-28 22:59:07 +0800
       - ETL process: data lineage, cleaning rules
       - ELT process
         - `dbt` <sup>18</sup>
+        There are essentially two parts in dbt: compiler and runner.
         > dbt's only function is to take code, compile it to SQL, and then run against your database
         - `model`: a data transformation, expressed in a single `SELECT` statement
         - dbt code is a combination of SQL and `Jinja`
