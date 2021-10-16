@@ -64,3 +64,4 @@ When calculating deduplicated metrics, e.g. distinct count, the following techni
 6. [What is a Data Mesh](https://towardsdatascience.com/what-is-a-data-mesh-and-how-not-to-mesh-it-up-210710bb41e0)
 7. [Data Mesh Applied](https://towardsdatascience.com/data-mesh-applied-21bed87876f2)
 8. [Data Monolith to Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)
+9. [Data Mesh Principles and Architecture](https://martinfowler.com/articles/data-mesh-principles.html)
