@@ -7,11 +7,16 @@ date:   2021-08-05 22:00:00 +0800
 ## Ruby Fundamentals
 
 ### Install Ruby
+
 `Ruby` is pre-installed in Mac and it's better to install or manage different version with `RVM`
 
 ```{bash}
 \curl -sSL https://get.rvm.io | bash -s stable
 ```
+
+### Naming convention of variables
+
+> Ruby uses a convention to help it distinguish the usage of a name: the first characters of a name indicate how the name is used. Local variables, method parameters, and method names should all start with a lowercase letter or with an underscore. Global variables are prefixed with a dollar sign ($), while instance variables begin with an \``at'' sign (@). Class variables start with two ``at'' signs (@@). Finally, class names, module names, and constants should start with an uppercase letter.
 
 ### Data Types
 
@@ -39,6 +44,8 @@ true
 ## Ruby on Rails
 
 ### MVC: Model View Controller
+
+- `Active Record`
 
 ## Reference
 
