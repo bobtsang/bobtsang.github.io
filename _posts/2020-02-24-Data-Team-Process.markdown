@@ -24,5 +24,6 @@ General observations and notes for data project process, or how data team works 
 ### Reference
 
 [1]Foundation for Architecting Data Solution, Ted Malaska and Jonathan Seidman, 2018 <br>
-[2][What’s missing? Reduce bias by addressing data gaps in your analysis process](https://thisisimportant.net/2020/10/26/whats-missing-reduce-bias-by-addressing-data-gaps-in-your-analysis-process/?mkt_tok=MzAzLUVJQy00OTkAAAF7-WyvMWcukttiv9w9CiQkYQ75N6MQmiksEoZksKSylmc3rae-VEkTkucsTSECqxgyPYHOCylKytAVvbeyo2vh0qYOw5Qtc1u4cuWXhHhtcQ)
-[3] Strangler Fig Application, Martin Fowler
+[2][What’s missing? Reduce bias by addressing data gaps in your analysis process](https://thisisimportant.net/2020/10/26/whats-missing-reduce-bias-by-addressing-data-gaps-in-your-analysis-process/?mkt_tok=MzAzLUVJQy00OTkAAAF7-WyvMWcukttiv9w9CiQkYQ75N6MQmiksEoZksKSylmc3rae-VEkTkucsTSECqxgyPYHOCylKytAVvbeyo2vh0qYOw5Qtc1u4cuWXhHhtcQ) <br>
+[3] Strangler Fig Application, Martin Fowler <br>
+[4] [A method for measuring analytical work](https://benn.substack.com/p/method-for-measuring-analytical-work?mkt_tok=MzAzLUVJQy00OTkAAAGAw01iHDyxy5zuxEDNj21oeCgLWtFeI1ZQkYJdFYYycS1VCFXrGPzO8gqjfgJ0n3HNuCaCFIsBfOfgFOCCT2-AR97TcFUtwpVD0k0YkijjlA)
