@@ -18,3 +18,4 @@ date:   2020-06-12 22:00:00 +0800
 6. [modeltime:The time series forecasting package for the tidymodels ecosystem.](https://github.com/business-science/modeltime)
 7. [Facebook Prophet:Forecasting at Scale](https://www.notion.so/bobzeng/Forecasting-at-Scale-Facebook-Prophet-131dd6b2e8cd42e1bf3f05bb6af99630)
 8. [Kats: One stop shop for time series analysis in Python](https://facebookresearch.github.io/Kats/)
+9. [M Forecasting Competition](https://github.com/Mcompetitions)
