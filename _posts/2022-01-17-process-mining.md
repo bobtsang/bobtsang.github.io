@@ -8,7 +8,7 @@ date:   2022-01-17 12:59:07 +0800
 
 ## Process Discovery
 
-## Algorithms
+### Algorithms
 
 Algorithm properties: `Soundness`
 
@@ -17,7 +17,7 @@ Algorithm properties: `Soundness`
 3. `Option to complete`
 4. `Absence of dead parts` 
 
-### Alpha Miner or Alpha Algorithm
+#### Alpha Miner or Alpha Algorithm
 
 Aims to find the following 4 types of relationships base, and convert the event log into a `petri net`
 
@@ -27,9 +27,9 @@ Aims to find the following 4 types of relationships base, and convert the event 
 4. Choice: `x # y`
 
 
-### Heuristic Miner
+#### Heuristic Miner
 
-### Inducice Miner
+#### Inducice Miner
 
 ## Reference
 
