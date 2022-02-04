@@ -10,3 +10,4 @@ Root cause analysis looks at things differently from outlier detection.  It's a 
 ## Reference
 
 1. [Root cause analysis vs. outlier detection](https://sisudata.com/blog/root-cause-analysis-vs-outlier-detection)
+2. [Root Cause Analysis](https://www.wikiwand.com/en/Root_cause_analysis)
