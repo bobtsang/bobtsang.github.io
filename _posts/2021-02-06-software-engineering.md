@@ -53,3 +53,4 @@ The process of designing a database involves producing the previously described 
 [15][Awesome Software Engineering](https://github.com/bmarvinb/awesome-software-engineering)
 [16][CMU Software Engineering Master's Courses](https://www.ece.cmu.edu/academics/ms-se/index.html)
 [17][MIT computer science and engineering](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)
+[18][The Engineering Manager Booklit](https://github.com/jesselpalmer/the-engineering-managers-booklist)
