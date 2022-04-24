@@ -51,3 +51,5 @@ The process of designing a database involves producing the previously described 
 [13][Poiters for Software Engineering](https://github.com/vicoyeh/pointers-for-software-engineers)
 [14][Blockchain for Software Engineers](https://github.com/benstew/blockchain-for-software-engineers)
 [15][Awesome Software Engineering](https://github.com/bmarvinb/awesome-software-engineering)
+[16][CMU Software Engineering Master's Courses](https://www.ece.cmu.edu/academics/ms-se/index.html)
+[17][MIT computer science and engineering](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)
