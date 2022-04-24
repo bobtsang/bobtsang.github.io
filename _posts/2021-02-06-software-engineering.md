@@ -47,3 +47,7 @@ The process of designing a database involves producing the previously described 
 [9] [git novice repo](https://swcarpentry.github.io/git-novice/)<br>
 [10] [What's serivce mesh](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh) <br>
 [11]Computer Systems: A Programmer's Perspective, Randal E. Bryant
+[12][Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+[13][Poiters for Software Engineering](https://github.com/vicoyeh/pointers-for-software-engineers)
+[14][Blockchain for Software Engineers](https://github.com/benstew/blockchain-for-software-engineers)
+[15][Awesome Software Engineering](https://github.com/bmarvinb/awesome-software-engineering)
