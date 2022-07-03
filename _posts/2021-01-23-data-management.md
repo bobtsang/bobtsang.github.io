@@ -20,4 +20,5 @@ date:   2021-01-23 22:59:07 +0800
 4. [Data Ops](https://www.wikiwand.com/en/DataOps)
 5. [Agile Data Quality](https://github.com/agile-lab-dev/DataQuality)
 6. [How Uber Achieves Operational Excellence in the Data Quality Experience](https://eng.uber.com/operational-excellence-data-quality/)
-7. [Master Data Management](https://www.wikiwand.com/en/Master_data_management) 
+7. [Master Data Management](https://www.wikiwand.com/en/Master_data_management)
+8. Data Management at Scale, Piethein Strengholt, 2020
