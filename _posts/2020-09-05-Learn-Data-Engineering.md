@@ -65,3 +65,5 @@ When calculating deduplicated metrics, e.g. distinct count, the following techni
 7. [Data Mesh Applied](https://towardsdatascience.com/data-mesh-applied-21bed87876f2)
 8. [Data Monolith to Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)
 9. [Data Mesh Principles and Architecture](https://martinfowler.com/articles/data-mesh-principles.html)
+10. [Data Mesh — A Data Movement and Processing Platform @ Netflix
+](https://medium.com/netflix-techblog/data-mesh-a-data-movement-and-processing-platform-netflix-1288bcab2873)
