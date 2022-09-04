@@ -60,5 +60,6 @@ Table names should be singular because
 [1]Database Internals,Alex Petrov, 2019 <br>
 [2][Naming convention](http://en.dwhwiki.info/templates/process/naming_conventions), Data Warehouse Wiki <br>
 [3] Transaction Processing Benchmark,[TPC BENCHMARK DS](http://tpc.org/tpc_documents_current_versions/pdf/tpc-ds_v2.13.0.pdf) <br>
-[4] [MVCC: Multiversion Concurrency Control, Wikipedia](https://www.wikiwand.com/en/Multiversion_concurrency_control)
-[5] [Database System Concepts, 7th ed., 2019
+[4] [MVCC: Multiversion Concurrency Control, Wikipedia](https://www.wikiwand.com/en/Multiversion_concurrency_control) <br>
+[5] [Database System Concepts, 7th ed., 2019 <br>
+[6] [CMU Database System 15-445/645 Course Schedules](https://15445.courses.cs.cmu.edu/fall2021/schedule.html)
