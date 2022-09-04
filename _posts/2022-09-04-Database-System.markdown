@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Database"
-date:   2020-05-22 22:59:07 +0800
+title:  "Database System"
+date:   2022-09-04 22:59:07 +0800
 ---
 #### Database system overview
 
@@ -61,3 +61,4 @@ Table names should be singular because
 [2][Naming convention](http://en.dwhwiki.info/templates/process/naming_conventions), Data Warehouse Wiki <br>
 [3] Transaction Processing Benchmark,[TPC BENCHMARK DS](http://tpc.org/tpc_documents_current_versions/pdf/tpc-ds_v2.13.0.pdf) <br>
 [4] [MVCC: Multiversion Concurrency Control, Wikipedia](https://www.wikiwand.com/en/Multiversion_concurrency_control)
+[5] [Database System Concepts, 7th ed., 2019
