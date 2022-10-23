@@ -72,3 +72,4 @@ List of items should be included into this document
 9. [Data Flow Diagram Comprehensive Guide with Examples](https://warren2lynch.medium.com/data-flow-diagram-comprehensive-guide-with-examples-d9858387f25e)
 10. [Writing a TL;DR](https://medium.com/facebook-research/writing-a-memorable-tl-dr-ea751cba88f2)
 11. [Documentation System](https://documentation.divio.com/)
+12. [Google Documentation Style Guide](https://developers.google.com/style)
