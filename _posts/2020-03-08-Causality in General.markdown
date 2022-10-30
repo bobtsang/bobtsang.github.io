@@ -22,6 +22,11 @@ What is [causal graph](https://www.wikiwand.com/en/Causal_graph)?
 
 ![Confounder]({{site.baseurl}}/resources/confounder.png)
 
+
+How to identify confoudners?
+
+To control confounder, a simple and widely-used approach is `stratification`, which is bucketting based on values of the confounders.
+
 ##### Structure Learning
 
 ##### Causal Discovery
@@ -56,3 +61,4 @@ It's an integration of the following <sup>10</sup>
 [16] [Discussion:'The Scientific Model of Causality', Michael E. Sobel](https://www.notion.so/bobzeng/DISCUSSION-THE-SCIENTIFIC-MODEL-OF-CAUSALITY-3e9cf563a8ff4beba3b00800a36ba312)<br>
 [17] [Causal Inference: Mixed Tape](https://mixtape.scunning.com/index.html)<br>
 [18] [Introduction to Causal Inference: from Machine Learning Perspective](https://www.notion.so/bobzeng/Introduction-to-Causal-Inference-from-Machine-Learning-Perspective-3e7ad2192a144882b33221173c6fe4fb)<br>
+[19] [How to Use Causal Inference In Day-to-Day Analytical Work](https://towardsdatascience.com/how-to-use-causal-inference-in-day-to-day-analytical-work-part-1-of-2-b5efbdbf8ab0), Rama Ramakrishnan, 2019
