@@ -62,3 +62,4 @@ It's an integration of the following <sup>10</sup>
 [17] [Causal Inference: Mixed Tape](https://mixtape.scunning.com/index.html)<br>
 [18] [Introduction to Causal Inference: from Machine Learning Perspective](https://www.notion.so/bobzeng/Introduction-to-Causal-Inference-from-Machine-Learning-Perspective-3e7ad2192a144882b33221173c6fe4fb)<br>
 [19] [How to Use Causal Inference In Day-to-Day Analytical Work](https://towardsdatascience.com/how-to-use-causal-inference-in-day-to-day-analytical-work-part-1-of-2-b5efbdbf8ab0), Rama Ramakrishnan, 2019
+[20] [Controlling Confounding Bias](http://bayes.cs.ucla.edu/BOOK-2K/ch3-3.pdf)
