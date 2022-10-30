@@ -16,6 +16,12 @@ What is [causal graph](https://www.wikiwand.com/en/Causal_graph)?
 
 #### Terminology
 
+##### Confounding and Confounders
+
+> A confounder is a variable that influences both the dependent and independent variable, causing a spurious association.
+
+![Confounder]({{site.baseurl}}/resources/confounder.png)
+
 ##### Structure Learning
 
 ##### Causal Discovery
