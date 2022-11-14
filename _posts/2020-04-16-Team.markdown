@@ -4,7 +4,30 @@ title:  "Team"
 date:   2020-04-16 22:00:00 +0800
 ---
 
-## Teammates Life Cycle
+## Design of Team
+
+### Role
+
+#### Team lead 
+
+- Understand the business users <sup>3</sup>:
+  - Understand their job responsibilities, goals, and objectives.
+  - Determine the decisions that the business users want to make with the help of the DW/BI system.
+  - Identify the “best” users who make effective, high-impact decisions.
+  - Find potential new users and make them aware of the DW/BI system's capabilities.
+- Deliver high-quality, relevant, and accessible information and analytics to the business users:
+  - Choose the most robust, actionable data to present in the DW/BI system, carefully selected from the vast universe of possible data sources in your organization.
+  - Make the user interfaces and applications simple and template-driven, explicitly matched to the users' cognitive processing profiles.
+  - Make sure the data is accurate and can be trusted, labeling it consistently across the enterprise.
+  - Continuously monitor the accuracy of the data and analyses.
+  - Adapt to changing user profiles, requirements, and business priorities, along with the availability of new data sources.
+- Sustain the DW/BI environment:
+  - Take a portion of the credit for the business decisions made using the DW/BI system, and use these successes to justify staffing and ongoing expenditures.
+  - Update the DW/BI system on a regular basis.
+  - Maintain the business users' trust.
+  - Keep the business users, executive sponsors, and IT management happy.
+
+## Teammates Journey
 
 ### Hiring
 
@@ -30,6 +53,13 @@ Onboarding material:
 - Deploying your first bug fix
 - Meetings. Who should your new team member meet with?
 
+
+### Developing
+
+
+### Off-boarding
+
+
 ## Setting Goal
 
 A good goal should consist of the following.
@@ -39,32 +69,12 @@ A good goal should consist of the following.
 - Trend
 - Time Frame
 
-## Setting Up Meetings
+## Rituals
+### Meetings
 
 Principle of when should we have what meeting
 
-## Design of Team
 
-### Role
-
-#### Team lead 
-
-- Understand the business users <sup>3</sup>:
-  - Understand their job responsibilities, goals, and objectives.
-  - Determine the decisions that the business users want to make with the help of the DW/BI system.
-  - Identify the “best” users who make effective, high-impact decisions.
-  - Find potential new users and make them aware of the DW/BI system's capabilities.
-- Deliver high-quality, relevant, and accessible information and analytics to the business users:
-  - Choose the most robust, actionable data to present in the DW/BI system, carefully selected from the vast universe of possible data sources in your organization.
-  - Make the user interfaces and applications simple and template-driven, explicitly matched to the users' cognitive processing profiles.
-  - Make sure the data is accurate and can be trusted, labeling it consistently across the enterprise.
-  - Continuously monitor the accuracy of the data and analyses.
-  - Adapt to changing user profiles, requirements, and business priorities, along with the availability of new data sources.
-- Sustain the DW/BI environment:
-  - Take a portion of the credit for the business decisions made using the DW/BI system, and use these successes to justify staffing and ongoing expenditures.
-  - Update the DW/BI system on a regular basis.
-  - Maintain the business users' trust.
-  - Keep the business users, executive sponsors, and IT management happy.
 
 ## Reference
 
