@@ -56,6 +56,14 @@ Onboarding material:
 
 ### Developing
 
+> If learning isn’t engaging, learners will tune out. 
+
+- Identify the needs
+  - Get sponsorship from your organisation
+- Know your audience
+- Learning that's easy to use
+- Learning that's actionable
+  - Provide the learners the ability to assess their proficiency
 
 ### Off-boarding
 
